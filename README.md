@@ -9,7 +9,7 @@ CredShields is a Web 3.0 security organization building best-in-class Web 3.0 se
 
 Some of our public works include a critical bugs in Cosmos and Avalanche 
 
-- Race Condition is Cosmos' Tendermin 
+- Race Condition is Cosmos' Tendermint 
 https://blog.credshields.com/race-condition-in-tendermints-starport-7cebe176d935
 
 - Avalanche DOS bug
@@ -19,7 +19,7 @@ https://blog.credshields.com/the-avalanche-blockchain-bug-to-halt-the-chain-4869
 # About SolidityScan
 Our team has built a cloud based smart contract security scanner (https://solidityscan.com) that has 100+ secruity vulnerability detection patterns for Solidity based smart contracts. The platform also allows to generate and publish an audit report of the smart contract at a click of a button after adressing all the vulnerabilities. 
 
-Case Study of bug detected by SolidityScan
+Case Study of bugs detected by SolidityScan
 
 - ShadowFI hack
 https://blog.solidityscan.com/the-shadowfi-hack-analysis-a0a1d3dcce29
