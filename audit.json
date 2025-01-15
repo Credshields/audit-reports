@@ -2,7 +2,7 @@
   "audits": [
     {
       "company_name": "9mm",
-      "logo": "https://github.com/Credshields/audit-reports/blob/master/AuditLogos/9mm.svg",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/9mm.svg",
       "total_bugs": 10,
       "crictal": 0.0,
       "high": 0.0,
@@ -17,7 +17,7 @@
     },
     {
       "company_name": "Arcana Paymaster",
-      "logo": "https://github.com/Credshields/audit-reports/blob/master/AuditLogos/Arcana.svg",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Arcana.svg",
       "total_bugs": 5,
       "crictal": 0.0,
       "high": 0.0,
@@ -32,7 +32,7 @@
     },
     {
       "company_name": "Arcana Sendit",
-      "logo": "https://github.com/Credshields/audit-reports/blob/master/AuditLogos/Arcana.svg",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Arcana.svg",
       "total_bugs": 8,
       "crictal": 0.0,
       "high": 2.0,
@@ -47,7 +47,7 @@
     },
     {
       "company_name": "Arcana - Staking",
-      "logo": "https://github.com/Credshields/audit-reports/blob/master/AuditLogos/Arcana.svg",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Arcana.svg",
       "total_bugs": 11,
       "crictal": 0.0,
       "high": 1.0,
@@ -62,7 +62,7 @@
     },
     {
       "company_name": "Archethic Bridge",
-      "logo": "",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Archethic Foundation.svg",
       "total_bugs": 10,
       "crictal": 0.0,
       "high": 1.0,
@@ -77,7 +77,7 @@
     },
     {
       "company_name": "AssetMantle-WEB",
-      "logo": "https://github.com/Credshields/audit-reports/blob/master/AuditLogos/AssetMantle.svg",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/AssetMantle.svg",
       "total_bugs": 15,
       "crictal": 1.0,
       "high": 3.0,
@@ -107,7 +107,7 @@
     },
     {
       "company_name": "BuscemiBeats-NFT",
-      "logo": "",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Buscemi Beast NFT.svg",
       "total_bugs": 12,
       "crictal": 0.0,
       "high": 0.0,
@@ -122,7 +122,7 @@
     },
     {
       "company_name": "Caliburland",
-      "logo": "https://github.com/Credshields/audit-reports/blob/master/AuditLogos/Caliburland.svg",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Caliburland.svg",
       "total_bugs": 0,
       "crictal": 0.0,
       "high": 0.0,
@@ -137,7 +137,7 @@
     },
     {
       "company_name": "Capital Rock",
-      "logo": "https://github.com/Credshields/audit-reports/blob/master/AuditLogos/Capital Rock.svg",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Capital Rock.svg",
       "total_bugs": 5,
       "crictal": 0.0,
       "high": 0.0,
@@ -167,7 +167,7 @@
     },
     {
       "company_name": "CoinGabbar",
-      "logo": "",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Coin Gabbar.svg",
       "total_bugs": 6,
       "crictal": 0.0,
       "high": 0.0,
@@ -197,7 +197,7 @@
     },
     {
       "company_name": "Compad Coin",
-      "logo": "https://github.com/Credshields/audit-reports/blob/master/AuditLogos/Compad.svg",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Compad.svg",
       "total_bugs": 2,
       "crictal": 0.0,
       "high": 0.0,
@@ -212,7 +212,7 @@
     },
     {
       "company_name": "CryptoFootball",
-      "logo": "https://github.com/Credshields/audit-reports/blob/master/AuditLogos/Crypto football.svg",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Crypto football.svg",
       "total_bugs": 0,
       "crictal": 0.0,
       "high": 0.0,
@@ -227,7 +227,7 @@
     },
     {
       "company_name": "DaiKoKu",
-      "logo": "https://github.com/Credshields/audit-reports/blob/master/AuditLogos/Daikoku.svg",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Daikoku.svg",
       "total_bugs": 5,
       "crictal": 0.0,
       "high": 0.0,
@@ -287,7 +287,7 @@
     },
     {
       "company_name": "pStake Smart Contract",
-      "logo": "https://github.com/Credshields/audit-reports/blob/master/AuditLogos/pSTAKE Finance.svg",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/pSTAKE Finance.svg",
       "total_bugs": 13,
       "crictal": 0.0,
       "high": 0.0,
@@ -302,7 +302,7 @@
     },
     {
       "company_name": "FoundersLab",
-      "logo": "",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Founders Lab.svg",
       "total_bugs": 12,
       "crictal": 2.0,
       "high": 2.0,
@@ -317,7 +317,7 @@
     },
     {
       "company_name": "HoldPlatform",
-      "logo": "https://github.com/Credshields/audit-reports/blob/master/AuditLogos/Hold Platform.svg",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Hold Platform.svg",
       "total_bugs": 7,
       "crictal": 0.0,
       "high": 0.0,
@@ -362,7 +362,7 @@
     },
     {
       "company_name": "JayPeggers",
-      "logo": "https://github.com/Credshields/audit-reports/blob/master/AuditLogos/JayPeggers.svg",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/JayPeggers.svg",
       "total_bugs": 13,
       "crictal": 0.0,
       "high": 0.0,
@@ -377,7 +377,7 @@
     },
     {
       "company_name": "Juno AWS",
-      "logo": "",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Juno Finance.svg",
       "total_bugs": 42,
       "crictal": 1.0,
       "high": 8.0,
@@ -407,7 +407,7 @@
     },
     {
       "company_name": "Kaku Smart Contract",
-      "logo": "https://github.com/Credshields/audit-reports/blob/master/AuditLogos/Kaku.svg",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Kaku.svg",
       "total_bugs": 5,
       "crictal": 0.0,
       "high": 0.0,
@@ -422,7 +422,7 @@
     },
     {
       "company_name": "Kresus",
-      "logo": "https://github.com/Credshields/audit-reports/blob/master/AuditLogos/Kerusus.svg",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Kerusus.svg",
       "total_bugs": 12,
       "crictal": 1.0,
       "high": 1.0,
@@ -437,7 +437,7 @@
     },
     {
       "company_name": "Lara Liquid Staking",
-      "logo": "",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Lara Protocol.svg",
       "total_bugs": 13,
       "crictal": 0.0,
       "high": 0.0,
@@ -452,7 +452,7 @@
     },
     {
       "company_name": "LogX Token",
-      "logo": "",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/LogX Token.svg",
       "total_bugs": 19,
       "crictal": 3.0,
       "high": 2.0,
@@ -467,7 +467,7 @@
     },
     {
       "company_name": "Lync",
-      "logo": "https://github.com/Credshields/audit-reports/blob/master/AuditLogos/Lync Network.svg",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Lync Network.svg",
       "total_bugs": 26,
       "crictal": 1.0,
       "high": 0.0,
@@ -482,7 +482,7 @@
     },
     {
       "company_name": "Moby",
-      "logo": "",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Moby.svg",
       "total_bugs": 1,
       "crictal": 0.0,
       "high": 0.0,
@@ -497,7 +497,7 @@
     },
     {
       "company_name": "Noft Game",
-      "logo": "https://github.com/Credshields/audit-reports/blob/master/AuditLogos/Noft Games.svg",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Noft Games.svg",
       "total_bugs": 11,
       "crictal": 1.0,
       "high": 3.0,
@@ -512,7 +512,7 @@
     },
     {
       "company_name": "Numa",
-      "logo": "https://github.com/Credshields/audit-reports/blob/master/AuditLogos/Numa Money.svg",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Numa Money.svg",
       "total_bugs": 5,
       "crictal": 0.0,
       "high": 0.0,
@@ -527,7 +527,7 @@
     },
     {
       "company_name": "Obius",
-      "logo": "https://github.com/Credshields/audit-reports/blob/master/AuditLogos/Obius.svg",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Obius.svg",
       "total_bugs": 10,
       "crictal": 0.0,
       "high": 1.0,
@@ -542,7 +542,7 @@
     },
     {
       "company_name": "PePay",
-      "logo": "https://github.com/Credshields/audit-reports/blob/master/AuditLogos/PePay.svg",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/PePay.svg",
       "total_bugs": 7,
       "crictal": 0.0,
       "high": 0.0,
@@ -602,7 +602,7 @@
     },
     {
       "company_name": "DappRadar Quest",
-      "logo": "https://github.com/Credshields/audit-reports/blob/master/AuditLogos/DappRadar.svg",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/DappRadar.svg",
       "total_bugs": 9,
       "crictal": 0.0,
       "high": 0.0,
@@ -617,7 +617,7 @@
     },
     {
       "company_name": "RDGX",
-      "logo": "https://github.com/Credshields/audit-reports/blob/master/AuditLogos/RDGX Token.svg",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/RDGX Token.svg",
       "total_bugs": 3,
       "crictal": 0.0,
       "high": 0.0,
@@ -632,7 +632,7 @@
     },
     {
       "company_name": "ResearchHub",
-      "logo": "https://github.com/Credshields/audit-reports/blob/master/AuditLogos/ResearchHub.svg",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/ResearchHub.svg",
       "total_bugs": 13,
       "crictal": 0.0,
       "high": 0.0,
@@ -647,7 +647,7 @@
     },
     {
       "company_name": "Rex Exchange",
-      "logo": "",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Rex exchange.svg",
       "total_bugs": 25,
       "crictal": 1.0,
       "high": 5.0,
@@ -662,7 +662,7 @@
     },
     {
       "company_name": "Nordek Rove Token",
-      "logo": "",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Rove Nordek.svg",
       "total_bugs": 8,
       "crictal": 0.0,
       "high": 1.0,
@@ -692,7 +692,7 @@
     },
     {
       "company_name": "SPE Smart Contract",
-      "logo": "",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/SPF.svg",
       "total_bugs": 29,
       "crictal": 2.0,
       "high": 1.0,
@@ -707,7 +707,7 @@
     },
     {
       "company_name": "SWYP",
-      "logo": "https://github.com/Credshields/audit-reports/blob/master/AuditLogos/SWYP Foundation.svg",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/SWYP Foundation.svg",
       "total_bugs": 7,
       "crictal": 0.0,
       "high": 0.0,
@@ -722,7 +722,7 @@
     },
     {
       "company_name": "Solace",
-      "logo": "https://github.com/Credshields/audit-reports/blob/master/AuditLogos/Solace Protocol.svg",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Solace Protocol.svg",
       "total_bugs": 9,
       "crictal": 0.0,
       "high": 0.0,
@@ -737,7 +737,7 @@
     },
     {
       "company_name": "StationX Claim",
-      "logo": "",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/StationX.svg",
       "total_bugs": 11,
       "crictal": 0.0,
       "high": 1.0,
@@ -752,7 +752,7 @@
     },
     {
       "company_name": "Styleo Coin",
-      "logo": "",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Styleo Coin Eddy finance.svg",
       "total_bugs": 3,
       "crictal": 0.0,
       "high": 0.0,
@@ -767,7 +767,7 @@
     },
     {
       "company_name": "TRICE",
-      "logo": "https://github.com/Credshields/audit-reports/blob/master/AuditLogos/Trice.svg",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Trice.svg",
       "total_bugs": 9,
       "crictal": 0.0,
       "high": 0.0,
@@ -797,7 +797,7 @@
     },
     {
       "company_name": "Tribally Games",
-      "logo": "https://github.com/Credshields/audit-reports/blob/master/AuditLogos/Tribally Games.svg",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Tribally Games.svg",
       "total_bugs": 6,
       "crictal": 0.0,
       "high": 1.0,
@@ -812,7 +812,7 @@
     },
     {
       "company_name": "UniCoinX",
-      "logo": "https://github.com/Credshields/audit-reports/blob/master/AuditLogos/Unicoinx.svg",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Unicoinx.svg",
       "total_bugs": 2,
       "crictal": 0.0,
       "high": 0.0,
@@ -827,7 +827,7 @@
     },
     {
       "company_name": "Uniscrow",
-      "logo": "https://github.com/Credshields/audit-reports/blob/master/AuditLogos/Uniscrow.svg",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Uniscrow.svg",
       "total_bugs": 6,
       "crictal": 0.0,
       "high": 0.0,
@@ -842,7 +842,7 @@
     },
     {
       "company_name": "Vouch Contract",
-      "logo": "https://github.com/Credshields/audit-reports/blob/master/AuditLogos/Vouch.svg",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Vouch.svg",
       "total_bugs": 12,
       "crictal": 0.0,
       "high": 1.0,
@@ -857,7 +857,7 @@
     },
     {
       "company_name": "Wahed Token",
-      "logo": "https://github.com/Credshields/audit-reports/blob/master/AuditLogos/Wahed Project.svg",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Wahed Project.svg",
       "total_bugs": 9,
       "crictal": 0.0,
       "high": 0.0,
@@ -872,7 +872,7 @@
     },
     {
       "company_name": "Wasset",
-      "logo": "https://github.com/Credshields/audit-reports/blob/master/AuditLogos/Wasset.svg",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Wasset.svg",
       "total_bugs": 17,
       "crictal": 2.0,
       "high": 0.0,
@@ -902,7 +902,7 @@
     },
     {
       "company_name": "ZHDCoin",
-      "logo": "",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/ZHD Coin.svg",
       "total_bugs": 4,
       "crictal": 0.0,
       "high": 0.0,
@@ -917,7 +917,7 @@
     },
     {
       "company_name": "Zenland",
-      "logo": "https://github.com/Credshields/audit-reports/blob/master/AuditLogos/Zenland.svg",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Zenland.svg",
       "total_bugs": 15,
       "crictal": 0.0,
       "high": 2.0,
@@ -947,7 +947,7 @@
     },
     {
       "company_name": "aUSD",
-      "logo": "",
+      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/aUSD Stablejack.svg",
       "total_bugs": 33,
       "crictal": 3.0,
       "high": 2.0,
