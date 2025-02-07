@@ -2,7 +2,7 @@
 	"audits": [
 		{
 			"company_name": "W3.labs",
-			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/w3labs.png",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/w3labs.svg",
 			"total_bugs": 13,
 			"crictal": 0.0,
 			"high": 0.0,
