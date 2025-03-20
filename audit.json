@@ -1,6 +1,21 @@
 {
 	"audits": [
 		{
+			"company_name": "Hemi Labs",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Hemi.svg",
+			"total_bugs": 10,
+			"crictal": 0.0,
+			"high": 1.0,
+			"medium": 3.0,
+			"low": 0.0,
+			"informational": 2.0,
+			"gas": 4.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Hemi_Labs_Final_Audit_Report.pdf",
+			"date": "March 12th 2025",
+			"platforms": ["ETH"],
+			"language": "Solidity"
+		},
+		{
 			"company_name": "ePound",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/doesnotexist.svg",
 			"total_bugs": 3,
