@@ -1,6 +1,21 @@
 {
 	"audits": [
 		{
+			"company_name": "Liqfinity",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/doesnotexist.svg",
+			"total_bugs": 5,
+			"crictal": 0.0,
+			"high": 0.0,
+			"medium": 0.0,
+			"low": 2.0,
+			"informational": 0.0,
+			"gas": 3.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Liqfinity_Token_Final_Audit_Report.pdf",
+			"date": "March 21st 2025",
+			"platforms": ["ETH"],
+			"language": "Solidity"
+		},
+		{
 			"company_name": "Hemi Labs",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Hemi.svg",
 			"total_bugs": 10,
