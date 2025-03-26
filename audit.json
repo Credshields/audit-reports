@@ -1,6 +1,20 @@
 {
 	"audits": [
 		{
+			"company_name": "RealProton",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Realproton.png",
+			"total_bugs": 6,
+			"crictal": 0.0,
+			"high": 1.0,
+			"medium": 0.0,
+			"low": 3.0,
+			"informational": 0.0,
+			"gas": 2.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Realproton_Final_Audit_Report.pdf",
+			"date": "March 24th 2025",
+			"platforms": ["ETH"],
+			"language": "Solidity"
+		},{
 			"company_name": "Liqfinity",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Liqfinity.png",
 			"total_bugs": 5,
