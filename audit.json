@@ -2,8 +2,7 @@
 	"audits": [
 		{
 			"company_name": "LERN360",
-			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/lern360.svg
-			// ",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/lern360.svg",
 			"total_bugs": 8,
 			"crictal": 0.0,
 			"high": 2.0,
