@@ -1,6 +1,21 @@
 {
 	"audits": [
 		{
+			"company_name": "LERN360",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/lern360.jpg",
+			"total_bugs": 8,
+			"crictal": 0.0,
+			"high": 2.0,
+			"medium": 0.0,
+			"low": 2.0,
+			"informational": 1.0,
+			"gas": 3.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/LERNToken_Final_Audit_Report.pdf",
+			"date": "April 17th 2025",
+			"platforms": ["ETH"],
+			"language": "Solidity"
+		},
+		{
 			"company_name": "Fomodotbiz",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/FOMO.png",
 			"total_bugs": 19,
