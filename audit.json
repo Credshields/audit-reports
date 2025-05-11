@@ -1,6 +1,21 @@
 {
 	"audits": [
 		{
+			"company_name": "Star (FSTR) Token",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/star.jpg",
+			"total_bugs": 3,
+			"crictal": 0.0,
+			"high": 0.0,
+			"medium": 0.0,
+			"low": 2.0,
+			"informational": 0.0,
+			"gas": 1.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Star_FSTR_Token_Final_Audit_Report.pdf",
+			"date": "May 10th 2025",
+			"platforms": ["ETH"],
+			"language": "Solidity"
+		},
+		{
 			"company_name": "Tunnl Exchange - TUN Token",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/tunnl.jpg",
 			"total_bugs": 3,
