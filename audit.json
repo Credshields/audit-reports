@@ -1,8 +1,38 @@
 {
 	"audits": [
 		{
+			"company_name": "Artulabs Limited - Solana Contracts",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/doesnotexist.jpg",
+			"total_bugs": 8,
+			"crictal": 1.0,
+			"high": 3.0,
+			"medium": 3.0,
+			"low": 1.0,
+			"informational": 0.0,
+			"gas": 0.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Artu_Rust_Final_Audit_Report.pdf",
+			"date": "February 21st 2025",
+			"platforms": ["SOLANA"],
+			"language": "Rust"
+		},
+		{
+			"company_name": "Artulabs Limited  - Solidity Contracts",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/doesnotexist.jpg",
+			"total_bugs": 16,
+			"crictal": 0.0,
+			"high": 1.0,
+			"medium": 2.0,
+			"low": 5.0,
+			"informational": 1.0,
+			"gas": 7.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Artu_Solidity_Final_Audit_Report.pdf",
+			"date": "February 21st 2025",
+			"platforms": ["ETH"],
+			"language": "Solidity"
+		},
+		{
 			"company_name": "Power Couple Coin - Lottery Contracts",
-			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/asdfqwe.jpg",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/doesnotexist.jpg",
 			"total_bugs": 18,
 			"crictal": 6.0,
 			"high": 1.0,
