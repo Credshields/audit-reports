@@ -32,7 +32,7 @@
 		},
 		{
 			"company_name": "Power Couple Coin - Lottery Contracts",
-			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/doesnotexist.jpg",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/PowerCouple.svg",
 			"total_bugs": 18,
 			"crictal": 6.0,
 			"high": 1.0,
