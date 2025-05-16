@@ -1,6 +1,21 @@
 {
 	"audits": [
 		{
+			"company_name": "Power Couple Coin - Lottery Contracts",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/asdfqwe.jpg",
+			"total_bugs": 18,
+			"crictal": 6.0,
+			"high": 1.0,
+			"medium": 3.0,
+			"low": 5.0,
+			"informational": 3.0,
+			"gas": 0.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Lottery_Contracts_Final_Audit_Report.pdf",
+			"date": "May 7th 2025",
+			"platforms": ["SOLANA"],
+			"language": "Rust"
+		},
+		{
 			"company_name": "Star (FSTR) Token",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/star.jpg",
 			"total_bugs": 3,
