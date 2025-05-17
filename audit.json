@@ -32,7 +32,7 @@
 		},
 		{
 			"company_name": "Power Couple Coin - Lottery Contracts",
-			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/PowerCouple.svg",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/PowerCouple.webp",
 			"total_bugs": 18,
 			"crictal": 6.0,
 			"high": 1.0,
@@ -77,7 +77,7 @@
 		},
 		{
 			"company_name": "LERN360",
-			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/lern360.svg",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/LEARN360.webp",
 			"total_bugs": 8,
 			"crictal": 0.0,
 			"high": 2.0,
