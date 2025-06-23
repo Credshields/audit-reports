@@ -1,6 +1,21 @@
 {
 	"audits": [
 		{
+			"company_name": "Mana.Win",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/manawin.png",
+			"total_bugs": 5,
+			"crictal": 2.0,
+			"high": 1.0,
+			"medium": 2.0,
+			"low": 0.0,
+			"informational": 0.0,
+			"gas": 0.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Manadotwin_Final_Audit_Report.pdf",
+			"date": "June 19th 2025",
+			"platforms": ["ETH"],
+			"language": "Solidity"
+		},
+		{
 			"company_name": "Artulabs Limited - Solana Contracts",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/doesnotexist.jpg",
 			"total_bugs": 8,
