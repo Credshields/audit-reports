@@ -1,6 +1,20 @@
 {
 	"audits": [
 		{
+			"company_name": "Mushi V2.0",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Mushi.svg",
+			"total_bugs": 14,
+			"crictal": 1.0,
+			"high": 3.0,
+			"medium": 4.0,
+			"low": 6.0,
+			"informational": 0.0,
+			"gas": 0.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Mushi_V2_0_Final_Audit_Report.pdf",
+			"date": "June 2nd 2025",
+			"platforms": ["SOLANA"],
+			"language": "Rust"
+		},{
 			"company_name": "Mana.Win",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/manawin.png",
 			"total_bugs": 5,
