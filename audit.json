@@ -1,6 +1,21 @@
 {
 	"audits": [
 		{
+			"company_name": "TOR Token",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/tortoken.jpg",
+			"total_bugs": 4,
+			"crictal": 0.0,
+			"high": 0.0,
+			"medium": 0.0,
+			"low": 3.0,
+			"informational": 0.0,
+			"gas": 1.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Tor_Token_Final_Audit_Report.pdf",
+			"date": "July 31st 2025",
+			"platforms": ["ETH"],
+			"language": "Solidity"
+		},
+		{
 			"company_name": "Mushi V2.0",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Mushi.svg",
 			"total_bugs": 14,
@@ -14,7 +29,8 @@
 			"date": "June 2nd 2025",
 			"platforms": ["SOLANA"],
 			"language": "Rust"
-		},{
+		},
+		{
 			"company_name": "Mana.Win",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/manawin.png",
 			"total_bugs": 5,
