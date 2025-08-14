@@ -1,6 +1,21 @@
 {
 	"audits": [
 		{
+			"company_name": "Vouch Token and Distribution",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Vouch2.svg",
+			"total_bugs": 24,
+			"crictal": 2.0,
+			"high": 1.0,
+			"medium": 5.0,
+			"low": 7.0,
+			"informational": 0.0,
+			"gas": 10.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Vouch_Token_and_Distribution_Final_Audit_Report.pdf.pdf",
+			"date": "August 14th 2025",
+			"platforms": ["ETH"],
+			"language": "Solidity"
+		},
+		{
 			"company_name": "Taco Studios - Okidori",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/okidori.svg",
 			"total_bugs": 12,
