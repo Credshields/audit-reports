@@ -10,7 +10,7 @@
 			"low": 2.0,
 			"informational": 0.0,
 			"gas": 2.0,
-			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Vouch_Token_and_Distribution_Final_Audit_Report.pdf",
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Zodor_Staking_Final_Audit_Report.pdf",
 			"date": "August 14th 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity"
