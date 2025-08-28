@@ -1,6 +1,21 @@
 {
 	"audits": [
 		{
+			"company_name": "Bitsafe - Fun Token Giveaway Contracts",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/funtoken.jpg",
+			"total_bugs": 29,
+			"crictal": 11.0,
+			"high": 7.0,
+			"medium": 4.0,
+			"low": 5.0,
+			"informational": 0.0,
+			"gas": 2.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Fun_Token_Final_Audit_Report.pdf",
+			"date": "August 21st 2025",
+			"platforms": ["ETH"],
+			"language": "Solidity"
+		},
+		{
 			"company_name": "Zodor Staking",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/zodor.jpg",
 			"total_bugs": 7,
