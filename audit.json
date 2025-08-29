@@ -1,6 +1,21 @@
 {
 	"audits": [
 		{
+			"company_name": "Safle - Unified ID Contracts",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/doesnotexist.jpg",
+			"total_bugs": 19,
+			"crictal": 2.0,
+			"high": 1.0,
+			"medium": 3.0,
+			"low": 5.0,
+			"informational": 1.0,
+			"gas": 7.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Safle_Final_Audit_Report.pdf",
+			"date": "August 21st 2025",
+			"platforms": ["ETH"],
+			"language": "Solidity"
+		},
+		{
 			"company_name": "Bitsafe - Fun Token Giveaway Contracts",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/funtoken.jpg",
 			"total_bugs": 29,
