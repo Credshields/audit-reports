@@ -1,6 +1,21 @@
 {
 	"audits": [
 		{
+			"company_name": "Klink Finance - Token Contract",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/klink.svg",
+			"total_bugs": 4,
+			"crictal": 0.0,
+			"high": 0.0,
+			"medium": 1.0,
+			"low": 3.0,
+			"informational": 0.0,
+			"gas": 0.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Klink_Token_Final_Audit_Report.pdf",
+			"date": "October 2nd 2025",
+			"platforms": ["ETH"],
+			"language": "Solidity"
+		},
+		{
 			"company_name": "Tarmiiz - Vault Contracts",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/tarmiiz.svg",
 			"total_bugs": 20,
