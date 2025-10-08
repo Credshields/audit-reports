@@ -1,6 +1,21 @@
 {
 	"audits": [
 		{
+			"company_name": "Bitsafe - Fun Token Giveaway Contracts 2",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/funtoken.jpg",
+			"total_bugs": 4,
+			"crictal": 0.0,
+			"high": 0.0,
+			"medium": 0.0,
+			"low": 3.0,
+			"informational": 0.0,
+			"gas": 1.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Fun_Token_Final_Audit_Report_2.pdf",
+			"date": "Sept 22nd 2025",
+			"platforms": ["ETH"],
+			"language": "Solidity"
+		},
+		{
 			"company_name": "Klink Finance - Token Contract",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/klink.svg",
 			"total_bugs": 4,
