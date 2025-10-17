@@ -1,6 +1,21 @@
 {
 	"audits": [
 		{
+			"company_name": "HeyElsa",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/hey_elsa.jpeg",
+			"total_bugs": 8,
+			"crictal": 0.0,
+			"high": 2.0,
+			"medium": 0.0,
+			"low": 6.0,
+			"informational": 0.0,
+			"gas": 0.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/HeyElsa_Final_Audit_Report.pdf",
+			"date": "Sep 1st 2025",
+			"platforms": ["Web"],
+			"language": "Web"
+		},
+		{
 			"company_name": "Landslide - ICM Contracts",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/landslide.png",
 			"total_bugs": 23,
