@@ -1,6 +1,36 @@
 {
 	"audits": [
 		{
+			"company_name": "CapX - Launchpad",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/capx.jpeg",
+			"total_bugs": 10,
+			"crictal": 0.0,
+			"high": 0.0,
+			"medium": 0.0,
+			"low": 4.0,
+			"informational": 0.0,
+			"gas": 6.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Capx_Launchpad_Final_Audit_Report.pdf",
+			"date": "Nov 3rd 2025",
+			"platforms": ["ETH"],
+			"language": "Solidity"
+		},
+		{
+			"company_name": "CapX - OnRamp Bridge",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/capx.jpeg",
+			"total_bugs": 3,
+			"crictal": 0.0,
+			"high": 0.0,
+			"medium": 0.0,
+			"low": 2.0,
+			"informational": 0.0,
+			"gas": 1.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Capx_Onramp_Bridge_Final_Audit_Report.pdf",
+			"date": "Nov 3rd 2025",
+			"platforms": ["ETH"],
+			"language": "Solidity"
+		},
+		{
 			"company_name": "Polytrade - TradeStaking",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/polytrade.svg",
 			"total_bugs": 3,
