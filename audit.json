@@ -1,6 +1,21 @@
 {
 	"audits": [
 		{
+			"company_name": "LERN360 - ICO Contracts",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/LEARN360.webp",
+			"total_bugs": 33,
+			"crictal": 6.0,
+			"high": 10.0,
+			"medium": 8.0,
+			"low": 5.0,
+			"informational": 2.0,
+			"gas": 2.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/LERN360_ICO_Contracts_Final_Audit_Report.pdf",
+			"date": "Nov 7th 2025",
+			"platforms": ["ETH"],
+			"language": "Solidity"
+		},
+		{
 			"company_name": "CapX - Launchpad",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/capx.jpeg",
 			"total_bugs": 10,
