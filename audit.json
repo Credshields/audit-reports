@@ -1,6 +1,21 @@
 {
 	"audits": [
 		{
+			"company_name": "CryptoRia - CRY Token",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/cryptoria.png",
+			"total_bugs": 4,
+			"crictal": 0.0,
+			"high": 0.0,
+			"medium": 0.0,
+			"low": 2.0,
+			"informational": 2.0,
+			"gas": 0.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Cryptoria_CRY_Token_Final_Audit_Report.pdf",
+			"date": "Nov 12th 2025",
+			"platforms": ["ETH"],
+			"language": "Solidity"
+		},
+		{
 			"company_name": "Okidori - Booster Pack",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/okidori.svg",
 			"total_bugs": 9,
