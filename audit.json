@@ -1,6 +1,36 @@
 {
 	"audits": [
 		{
+			"company_name": "HeyElsa - Token Contract",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/hey_elsa.jpeg",
+			"total_bugs": 1,
+			"crictal": 0.0,
+			"high": 0.0,
+			"medium": 0.0,
+			"low": 1.0,
+			"informational": 0.0,
+			"gas": 0.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/HeyElsa_Token_Final_Audit_Report.pdf",
+			"date": "Nov 20th 2025",
+			"platforms": ["ETH"],
+			"language": "Solidity"
+		},
+		{
+			"company_name": "HeyElsa - DApp Widget",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/hey_elsa.jpeg",
+			"total_bugs": 4,
+			"crictal": 1.0,
+			"high": 1.0,
+			"medium": 2.0,
+			"low": 0.0,
+			"informational": 0.0,
+			"gas": 0.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/HeyElsa_Widget_Final_Audit_Report.pdf",
+			"date": "Nov 17th 2025",
+			"platforms": ["Web"],
+			"language": "Web"
+		},
+		{
 			"company_name": "QuickSwap - Token Contract",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/quickswap.svg",
 			"total_bugs": 1,
@@ -136,7 +166,7 @@
 			"language": "Solidity"
 		},
 		{
-			"company_name": "HeyElsa",
+			"company_name": "HeyElsa - WebApp",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/hey_elsa.jpeg",
 			"total_bugs": 8,
 			"crictal": 0.0,
