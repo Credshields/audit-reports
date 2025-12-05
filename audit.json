@@ -1,6 +1,21 @@
 {
 	"audits": [
 		{
+			"company_name": "Fanbase Token",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/fanbase.jpeg",
+			"total_bugs": 2,
+			"crictal": 0.0,
+			"high": 0.0,
+			"medium": 0.0,
+			"low": 0.0,
+			"informational": 1.0,
+			"gas": 1.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Fanbase_Token_Final_Audit_Report.pdf",
+			"date": "Dec 4th 2025",
+			"platforms": ["ETH"],
+			"language": "Solidity"
+		},
+		{
 			"company_name": "Dhazon - Score11 Contract",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/score11.jpeg",
 			"total_bugs": 3,
