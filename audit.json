@@ -1,6 +1,36 @@
 {
 	"audits": [
 		{
+			"company_name": "HeyElsa - Token Contract",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/hey_elsa.jpeg",
+			"total_bugs": 2,
+			"crictal": 0.0,
+			"high": 0.0,
+			"medium": 0.0,
+			"low": 1.0,
+			"informational": 0.0,
+			"gas": 1.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/HeyElsa_Token_Contract_Final_Report_Dec.pdf",
+			"date": "Dec 31st 2025",
+			"platforms": ["ETH"],
+			"language": "Solidity"
+		},
+		{
+			"company_name": "QPEPE Token",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/doesnotexist.jpeg",
+			"total_bugs": 1,
+			"crictal": 0.0,
+			"high": 0.0,
+			"medium": 0.0,
+			"low": 0.0,
+			"informational": 0.0,
+			"gas": 1.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/QPEPE_Token_Final_Audit_Report.pdf",
+			"date": "Dec 3rd 2025",
+			"platforms": ["ETH"],
+			"language": "Solidity"
+		},
+		{
 			"company_name": "Octos Contracts",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/octos.jpeg",
 			"total_bugs": 7,
