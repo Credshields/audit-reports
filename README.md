@@ -5,9 +5,9 @@ This repository contains audit reports for various smart contracts that our team
 
 # About CredShields:
 
-CredShields is a Web 3.0 security organization building best-in-class Web 3.0 security automation tools along with providing manual auditing services with a diversified portfolio of reputed organizations. Established in 2021, built by renowned security researchers from the industry, and backed by the best, CredShields aims to simplify and optimize the auditing process, making them affordable and available to everyone. 
+CredShields is a Web 3.0 security organization building best-in-class Web 3.0 security automation tools, along with providing manual auditing services to a diversified portfolio of reputed organizations. Established in 2021, built by renowned security researchers from the industry, and backed by the best, CredShields aims to simplify and optimize the auditing process, making it affordable and available to everyone. 
 
-Some of our public works include a critical bugs in Cosmos and Avalanche 
+Some of our public works include critical bugs in Cosmos and Avalanche 
 
 - Race Condition is Cosmos' Tendermint 
 https://blog.credshields.com/race-condition-in-tendermints-starport-7cebe176d935
@@ -17,7 +17,7 @@ https://blog.credshields.com/the-avalanche-blockchain-bug-to-halt-the-chain-4869
 
 
 # About SolidityScan
-Our team has built a cloud based smart contract security scanner (https://solidityscan.com) that has 100+ secruity vulnerability detection patterns for Solidity based smart contracts. The platform also allows to generate and publish an audit report of the smart contract at a click of a button after adressing all the vulnerabilities. 
+Our team has built a cloud-based smart contract security scanner (https://solidityscan.com) that has 700+ security vulnerability detection patterns for Solidity-based smart contracts. The platform also allows generating and publishing an audit report of the smart contract with a click of a button after addressing all the vulnerabilities. 
 
 Case Study of bugs detected by SolidityScan
 
