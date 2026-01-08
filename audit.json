@@ -1,6 +1,21 @@
 {
 	"audits": [
 		{
+			"company_name": "HeyElsa - OFT Contract",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/hey_elsa.jpeg",
+			"total_bugs": 1,
+			"crictal": 0.0,
+			"high": 0.0,
+			"medium": 0.0,
+			"low": 0.0,
+			"informational": 0.0,
+			"gas": 1.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/HeyElsa_Bridge_Final_Report.pdf",
+			"date": "Jan 7th 2026",
+			"platforms": ["ETH"],
+			"language": "Solidity"
+		},
+		{
 			"company_name": "HeyElsa - Token Contract",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/hey_elsa.jpeg",
 			"total_bugs": 2,
