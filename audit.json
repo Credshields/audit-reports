@@ -1,6 +1,21 @@
 {
 	"audits": [
 		{
+			"company_name": "HeyElsa - Staking Contracts",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/hey_elsa.jpeg",
+			"total_bugs": 12,
+			"crictal": 0.0,
+			"high": 2.0,
+			"medium": 3.0,
+			"low": 2.0,
+			"informational": 2.0,
+			"gas": 3.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/HeyElsa_Staking_Final_Audit_Report.pdf",
+			"date": "Jan 8th 2026",
+			"platforms": ["ETH"],
+			"language": "Solidity"
+		},
+		{
 			"company_name": "HeyElsa - OFT Contract",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/hey_elsa.jpeg",
 			"total_bugs": 1,
