@@ -1,6 +1,21 @@
 {
 	"audits": [
 		{
+			"company_name": "Blockwill Contracts",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/blockwill.svg",
+			"total_bugs": 15,
+			"crictal": 0.0,
+			"high": 1.0,
+			"medium": 4.0,
+			"low": 5.0,
+			"informational": 2.0,
+			"gas": 3.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Blockwill_Final_Audit_Report.pdf",
+			"date": "Jan 30th 2026",
+			"platforms": ["ETH"],
+			"language": "Solidity"
+		},
+		{
 			"company_name": "HeyElsa - Airdrop Contracts",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/hey_elsa.jpeg",
 			"total_bugs": 4,
