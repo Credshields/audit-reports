@@ -2,7 +2,7 @@
 	"audits": [
 		{
 			"company_name": "Akita",
-			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/asdasd.svg",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/akita.webp",
 			"total_bugs": 5,
 			"crictal": 0.0,
 			"high": 0.0,
