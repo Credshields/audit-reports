@@ -4,7 +4,6 @@
       "company_name": "Akita",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/akita.webp",
       "total_bugs": 5,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 2,
@@ -15,13 +14,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Ardentis",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/ardentis.svg",
       "total_bugs": 35,
-      "critical": 0,
       "high": 0,
       "medium": 1,
       "low": 20,
@@ -32,13 +31,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Blockwill Contracts",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/blockwill.svg",
       "total_bugs": 15,
-      "critical": 0,
       "high": 1,
       "medium": 4,
       "low": 5,
@@ -49,13 +48,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "HeyElsa - Airdrop Contracts",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/hey_elsa.jpeg",
       "total_bugs": 4,
-      "critical": 0,
       "high": 0,
       "medium": 1,
       "low": 1,
@@ -66,13 +65,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "HeyElsa - Staking Contracts",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/hey_elsa.jpeg",
       "total_bugs": 12,
-      "critical": 0,
       "high": 2,
       "medium": 3,
       "low": 2,
@@ -83,13 +82,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "HeyElsa - OFT Contract",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/hey_elsa.jpeg",
       "total_bugs": 1,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 0,
@@ -100,13 +99,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "HeyElsa - Token Contract",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/hey_elsa.jpeg",
       "total_bugs": 2,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 1,
@@ -117,13 +116,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "QPEPE Token",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/doesnotexist.jpeg",
       "total_bugs": 1,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 0,
@@ -134,13 +133,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Octos Contracts",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/octos.jpeg",
       "total_bugs": 7,
-      "critical": 0,
       "high": 1,
       "medium": 1,
       "low": 2,
@@ -151,13 +150,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Fanbase Token",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/fanbase.jpeg",
       "total_bugs": 2,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 0,
@@ -168,13 +167,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Dhazon - Score11 Contract",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/score11.jpeg",
       "total_bugs": 3,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 2,
@@ -185,13 +184,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Avail - Vault Contracts",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/avail.svg",
       "total_bugs": 7,
-      "critical": 1,
       "high": 0,
       "medium": 3,
       "low": 0,
@@ -202,13 +201,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 1
     },
     {
       "company_name": "Avail - XARMigration",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/avail.svg",
       "total_bugs": 4,
-      "critical": 1,
       "high": 0,
       "medium": 0,
       "low": 0,
@@ -219,13 +218,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 1
     },
     {
       "company_name": "Guardian Labs - Presale Contracts",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/vltc.png",
       "total_bugs": 4,
-      "critical": 0,
       "high": 0,
       "medium": 1,
       "low": 3,
@@ -236,13 +235,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "VaultCoin Foundation - VaultCoin Token",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/vltc.png",
       "total_bugs": 1,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 1,
@@ -253,13 +252,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "HeyElsa - Token Contract",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/hey_elsa.jpeg",
       "total_bugs": 1,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 1,
@@ -270,13 +269,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "HeyElsa - DApp Widget",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/hey_elsa.jpeg",
       "total_bugs": 4,
-      "critical": 1,
       "high": 1,
       "medium": 2,
       "low": 0,
@@ -287,13 +286,13 @@
       "platforms": [
         "Web"
       ],
-      "language": "Web"
+      "language": "Web",
+      "crictal": 1
     },
     {
       "company_name": "QuickSwap - Token Contract",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/quickswap.svg",
       "total_bugs": 1,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 1,
@@ -304,13 +303,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "CryptoRia - CRY Token",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/cryptoria.png",
       "total_bugs": 4,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 2,
@@ -321,13 +320,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Okidori - Booster Pack",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/okidori.svg",
       "total_bugs": 9,
-      "critical": 0,
       "high": 1,
       "medium": 4,
       "low": 2,
@@ -338,13 +337,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "LERN360 - ICO Contracts",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/LEARN360.webp",
       "total_bugs": 33,
-      "critical": 6,
       "high": 10,
       "medium": 8,
       "low": 5,
@@ -355,13 +354,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 6
     },
     {
       "company_name": "CapX - Launchpad",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/capx.jpeg",
       "total_bugs": 10,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 4,
@@ -372,13 +371,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "CapX - OnRamp Bridge",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/capx.jpeg",
       "total_bugs": 3,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 2,
@@ -389,13 +388,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Polytrade - TradeStaking",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/polytrade.svg",
       "total_bugs": 3,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 2,
@@ -406,13 +405,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Vouch Staking",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Vouch2.svg",
       "total_bugs": 15,
-      "critical": 1,
       "high": 2,
       "medium": 2,
       "low": 5,
@@ -423,13 +422,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 1
     },
     {
       "company_name": "EcoYield Token",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/ecoyield.svg",
       "total_bugs": 1,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 0,
@@ -440,13 +439,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "HeyElsa - WebApp",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/hey_elsa.jpeg",
       "total_bugs": 8,
-      "critical": 0,
       "high": 2,
       "medium": 0,
       "low": 6,
@@ -457,13 +456,13 @@
       "platforms": [
         "Web"
       ],
-      "language": "Web"
+      "language": "Web",
+      "crictal": 0
     },
     {
       "company_name": "Landslide - ICM Contracts",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/landslide.png",
       "total_bugs": 23,
-      "critical": 4,
       "high": 3,
       "medium": 1,
       "low": 4,
@@ -474,13 +473,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 4
     },
     {
       "company_name": "Mandala - Presale Contracts",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/mandala.png",
       "total_bugs": 10,
-      "critical": 0,
       "high": 1,
       "medium": 0,
       "low": 5,
@@ -491,13 +490,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Bitsafe - Fun Token Giveaway Contracts 2",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/funtoken.webp",
       "total_bugs": 4,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 3,
@@ -508,13 +507,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Klink Finance - Token Contract",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/klink.svg",
       "total_bugs": 4,
-      "critical": 0,
       "high": 0,
       "medium": 1,
       "low": 3,
@@ -525,13 +524,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Tarmiiz - Vault Contracts",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/tarmiiz.svg",
       "total_bugs": 20,
-      "critical": 2,
       "high": 3,
       "medium": 4,
       "low": 9,
@@ -542,13 +541,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 2
     },
     {
       "company_name": "Safle - Unified ID Contracts",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/doesnotexist.jpg",
       "total_bugs": 19,
-      "critical": 2,
       "high": 1,
       "medium": 3,
       "low": 5,
@@ -559,13 +558,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 2
     },
     {
       "company_name": "Bitsafe - Fun Token Giveaway Contracts",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/funtoken.webp",
       "total_bugs": 29,
-      "critical": 11,
       "high": 7,
       "medium": 4,
       "low": 5,
@@ -576,13 +575,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 11
     },
     {
       "company_name": "Zodor Staking",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/zodor.jpg",
       "total_bugs": 7,
-      "critical": 2,
       "high": 0,
       "medium": 1,
       "low": 2,
@@ -593,13 +592,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 2
     },
     {
       "company_name": "Vouch Token and Distribution",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Vouch2.svg",
       "total_bugs": 24,
-      "critical": 2,
       "high": 1,
       "medium": 5,
       "low": 7,
@@ -610,13 +609,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 2
     },
     {
       "company_name": "Taco Studios - Okidori",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/okidori.svg",
       "total_bugs": 12,
-      "critical": 2,
       "high": 1,
       "medium": 4,
       "low": 3,
@@ -627,13 +626,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 2
     },
     {
       "company_name": "TOR Token",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/tortoken.jpg",
       "total_bugs": 4,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 3,
@@ -644,13 +643,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Mushi V2.0",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Mushi.svg",
       "total_bugs": 14,
-      "critical": 1,
       "high": 3,
       "medium": 4,
       "low": 6,
@@ -661,13 +660,13 @@
       "platforms": [
         "SOLANA"
       ],
-      "language": "Rust"
+      "language": "Rust",
+      "crictal": 1
     },
     {
       "company_name": "Mana.Win",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/manawin.png",
       "total_bugs": 5,
-      "critical": 2,
       "high": 1,
       "medium": 2,
       "low": 0,
@@ -678,13 +677,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 2
     },
     {
       "company_name": "Artulabs Limited - Solana Contracts",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/doesnotexist.jpg",
       "total_bugs": 8,
-      "critical": 1,
       "high": 3,
       "medium": 3,
       "low": 1,
@@ -695,13 +694,13 @@
       "platforms": [
         "SOLANA"
       ],
-      "language": "Rust"
+      "language": "Rust",
+      "crictal": 1
     },
     {
       "company_name": "Artulabs Limited  - Solidity Contracts",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/doesnotexist.jpg",
       "total_bugs": 16,
-      "critical": 0,
       "high": 1,
       "medium": 2,
       "low": 5,
@@ -712,13 +711,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Power Couple Coin - Lottery Contracts",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/PowerCouple.webp",
       "total_bugs": 18,
-      "critical": 6,
       "high": 1,
       "medium": 3,
       "low": 5,
@@ -729,13 +728,13 @@
       "platforms": [
         "SOLANA"
       ],
-      "language": "Rust"
+      "language": "Rust",
+      "crictal": 6
     },
     {
       "company_name": "Star (FSTR) Token",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/star.jpg",
       "total_bugs": 3,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 2,
@@ -746,13 +745,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Tunnl Exchange - TUN Token",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/tunnl.jpg",
       "total_bugs": 3,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 2,
@@ -763,13 +762,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "LERN360",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/LEARN360.webp",
       "total_bugs": 8,
-      "critical": 0,
       "high": 2,
       "medium": 0,
       "low": 2,
@@ -780,13 +779,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Fomodotbiz",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/FOMO.png",
       "total_bugs": 19,
-      "critical": 3,
       "high": 0,
       "medium": 3,
       "low": 7,
@@ -797,13 +796,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 3
     },
     {
       "company_name": "Lync - Mew.gg Contracts",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Lync%20Network.svg",
       "total_bugs": 11,
-      "critical": 0,
       "high": 1,
       "medium": 0,
       "low": 2,
@@ -814,13 +813,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "RealProton",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Realproton.png",
       "total_bugs": 6,
-      "critical": 0,
       "high": 1,
       "medium": 0,
       "low": 3,
@@ -831,13 +830,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Liqfinity",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Liqfinity.png",
       "total_bugs": 5,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 2,
@@ -848,13 +847,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Hemi Labs",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Hemi.svg",
       "total_bugs": 10,
-      "critical": 0,
       "high": 1,
       "medium": 3,
       "low": 0,
@@ -865,13 +864,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "ePound",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/doesnotexist.svg",
       "total_bugs": 3,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 2,
@@ -882,13 +881,13 @@
       "platforms": [
         "BSC"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "W3.labs",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/w3labs.svg",
       "total_bugs": 13,
-      "critical": 0,
       "high": 0,
       "medium": 4,
       "low": 1,
@@ -899,13 +898,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "BRLA",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/kek.png",
       "total_bugs": 14,
-      "critical": 2,
       "high": 0,
       "medium": 3,
       "low": 4,
@@ -916,13 +915,13 @@
       "platforms": [
         "Polygon"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 2
     },
     {
       "company_name": "AllInGames - Andar Bahar",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/AllInGaming.png",
       "total_bugs": 4,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 2,
@@ -933,13 +932,13 @@
       "platforms": [
         "COSMOS"
       ],
-      "language": "Rust"
+      "language": "Rust",
+      "crictal": 0
     },
     {
       "company_name": "AllInGames - Baccarat",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/AllInGaming.png",
       "total_bugs": 5,
-      "critical": 0,
       "high": 0,
       "medium": 1,
       "low": 3,
@@ -950,13 +949,13 @@
       "platforms": [
         "COSMOS"
       ],
-      "language": "Rust"
+      "language": "Rust",
+      "crictal": 0
     },
     {
       "company_name": "AllInGames - Bank",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/AllInGaming.png",
       "total_bugs": 16,
-      "critical": 4,
       "high": 0,
       "medium": 5,
       "low": 5,
@@ -967,13 +966,13 @@
       "platforms": [
         "COSMOS"
       ],
-      "language": "Rust"
+      "language": "Rust",
+      "crictal": 4
     },
     {
       "company_name": "AllInGames - Classic Dice",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/AllInGaming.png",
       "total_bugs": 7,
-      "critical": 1,
       "high": 0,
       "medium": 1,
       "low": 2,
@@ -984,13 +983,13 @@
       "platforms": [
         "COSMOS"
       ],
-      "language": "Rust"
+      "language": "Rust",
+      "crictal": 1
     },
     {
       "company_name": "AllInGames - Coin Flip",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/AllInGaming.png",
       "total_bugs": 7,
-      "critical": 1,
       "high": 1,
       "medium": 0,
       "low": 1,
@@ -1001,13 +1000,13 @@
       "platforms": [
         "COSMOS"
       ],
-      "language": "Rust"
+      "language": "Rust",
+      "crictal": 1
     },
     {
       "company_name": "AllInGames - Dragon Tiger",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/AllInGaming.png",
       "total_bugs": 4,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 2,
@@ -1018,13 +1017,13 @@
       "platforms": [
         "COSMOS"
       ],
-      "language": "Rust"
+      "language": "Rust",
+      "crictal": 0
     },
     {
       "company_name": "AllInGames - Hash Dice",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/AllInGaming.png",
       "total_bugs": 7,
-      "critical": 1,
       "high": 1,
       "medium": 0,
       "low": 1,
@@ -1035,13 +1034,13 @@
       "platforms": [
         "COSMOS"
       ],
-      "language": "Rust"
+      "language": "Rust",
+      "crictal": 1
     },
     {
       "company_name": "AllInGames - Limbo",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/AllInGaming.png",
       "total_bugs": 9,
-      "critical": 0,
       "high": 0,
       "medium": 2,
       "low": 2,
@@ -1052,13 +1051,13 @@
       "platforms": [
         "COSMOS"
       ],
-      "language": "Rust"
+      "language": "Rust",
+      "crictal": 0
     },
     {
       "company_name": "AllInGames - Lottery",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/AllInGaming.png",
       "total_bugs": 4,
-      "critical": 2,
       "high": 0,
       "medium": 1,
       "low": 0,
@@ -1069,13 +1068,13 @@
       "platforms": [
         "COSMOS"
       ],
-      "language": "Rust"
+      "language": "Rust",
+      "crictal": 2
     },
     {
       "company_name": "AllInGames - Roulette",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/AllInGaming.png",
       "total_bugs": 2,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 1,
@@ -1086,13 +1085,13 @@
       "platforms": [
         "COSMOS"
       ],
-      "language": "Rust"
+      "language": "Rust",
+      "crictal": 0
     },
     {
       "company_name": "AllInGames - Seven Up Seven Down",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/AllInGaming.png",
       "total_bugs": 5,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 2,
@@ -1103,13 +1102,13 @@
       "platforms": [
         "COSMOS"
       ],
-      "language": "Rust"
+      "language": "Rust",
+      "crictal": 0
     },
     {
       "company_name": "AllInGames - Slots",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/AllInGaming.png",
       "total_bugs": 4,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 2,
@@ -1120,13 +1119,13 @@
       "platforms": [
         "COSMOS"
       ],
-      "language": "Rust"
+      "language": "Rust",
+      "crictal": 0
     },
     {
       "company_name": "9mm",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/9mm.svg",
       "total_bugs": 10,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 2,
@@ -1137,13 +1136,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Arcana Paymaster",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Arcana.svg",
       "total_bugs": 5,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 3,
@@ -1154,13 +1153,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Arcana Sendit",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Arcana.svg",
       "total_bugs": 8,
-      "critical": 0,
       "high": 2,
       "medium": 0,
       "low": 2,
@@ -1171,13 +1170,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Arcana - Staking",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Arcana.svg",
       "total_bugs": 11,
-      "critical": 0,
       "high": 1,
       "medium": 0,
       "low": 3,
@@ -1188,13 +1187,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Archethic Bridge",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Archethic Foundation.svg",
       "total_bugs": 10,
-      "critical": 0,
       "high": 1,
       "medium": 0,
       "low": 3,
@@ -1205,13 +1204,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "AssetMantle-WEB",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/AssetMantle.svg",
       "total_bugs": 15,
-      "critical": 1,
       "high": 3,
       "medium": 5,
       "low": 6,
@@ -1222,13 +1221,13 @@
       "platforms": [
         "Web2"
       ],
-      "language": "Web"
+      "language": "Web",
+      "crictal": 1
     },
     {
       "company_name": "Asset Chain",
       "logo": "",
       "total_bugs": 1,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 1,
@@ -1239,13 +1238,13 @@
       "platforms": [
         "BSC"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "BuscemiBeats-NFT",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Buscemi Beast NFT.svg",
       "total_bugs": 12,
-      "critical": 0,
       "high": 0,
       "medium": 1,
       "low": 2,
@@ -1256,13 +1255,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Caliburland",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Caliburland.svg",
       "total_bugs": 0,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 0,
@@ -1273,13 +1272,13 @@
       "platforms": [
         "BSC"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Capital Rock",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Capital Rock.svg",
       "total_bugs": 5,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 0,
@@ -1290,13 +1289,13 @@
       "platforms": [
         "BSC"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Capx",
       "logo": "",
       "total_bugs": 0,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 0,
@@ -1307,13 +1306,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "CoinGabbar",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Coin Gabbar.svg",
       "total_bugs": 6,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 1,
@@ -1324,13 +1323,13 @@
       "platforms": [
         "BSC"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Comdex",
       "logo": "",
       "total_bugs": 6,
-      "critical": 0,
       "high": 2,
       "medium": 0,
       "low": 3,
@@ -1341,13 +1340,13 @@
       "platforms": [
         "COSMOS"
       ],
-      "language": "Go"
+      "language": "Go",
+      "crictal": 0
     },
     {
       "company_name": "Compad Coin",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Compad.svg",
       "total_bugs": 2,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 1,
@@ -1358,13 +1357,13 @@
       "platforms": [
         "BSC"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "CryptoFootball",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Crypto football.svg",
       "total_bugs": 0,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 0,
@@ -1375,13 +1374,13 @@
       "platforms": [
         "Web App"
       ],
-      "language": "Web"
+      "language": "Web",
+      "crictal": 0
     },
     {
       "company_name": "DaiKoKu",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Daikoku.svg",
       "total_bugs": 5,
-      "critical": 0,
       "high": 0,
       "medium": 1,
       "low": 1,
@@ -1392,13 +1391,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "DeVo Token",
       "logo": "",
       "total_bugs": 5,
-      "critical": 0,
       "high": 0,
       "medium": 1,
       "low": 1,
@@ -1409,13 +1408,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Devo Whitelist",
       "logo": "",
       "total_bugs": 6,
-      "critical": 0,
       "high": 0,
       "medium": 1,
       "low": 2,
@@ -1426,13 +1425,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Factiiv Token",
       "logo": "",
       "total_bugs": 2,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 1,
@@ -1443,13 +1442,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "pStake Smart Contract",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/pSTAKE Finance.svg",
       "total_bugs": 13,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 5,
@@ -1460,13 +1459,13 @@
       "platforms": [
         "COSMOS"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "FoundersLab",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Founders Lab.svg",
       "total_bugs": 12,
-      "critical": 2,
       "high": 2,
       "medium": 0,
       "low": 3,
@@ -1477,13 +1476,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 2
     },
     {
       "company_name": "HoldPlatform",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Hold Platform.svg",
       "total_bugs": 7,
-      "critical": 0,
       "high": 0,
       "medium": 3,
       "low": 1,
@@ -1494,13 +1493,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Ideology",
       "logo": "",
       "total_bugs": 3,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 1,
@@ -1511,13 +1510,13 @@
       "platforms": [
         "Polygon"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "JayDeriv",
       "logo": "",
       "total_bugs": 12,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 3,
@@ -1528,13 +1527,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "JayPeggers",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/JayPeggers.svg",
       "total_bugs": 13,
-      "critical": 0,
       "high": 0,
       "medium": 2,
       "low": 5,
@@ -1545,13 +1544,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Juno AWS",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Juno Finance.svg",
       "total_bugs": 42,
-      "critical": 1,
       "high": 8,
       "medium": 8,
       "low": 24,
@@ -1562,13 +1561,13 @@
       "platforms": [
         "AWS"
       ],
-      "language": "AWS"
+      "language": "AWS",
+      "crictal": 1
     },
     {
       "company_name": "JustFarming",
       "logo": "",
       "total_bugs": 10,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 1,
@@ -1579,13 +1578,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Kaku Smart Contract",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Kaku.svg",
       "total_bugs": 5,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 3,
@@ -1596,13 +1595,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Kresus",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Kerusus.svg",
       "total_bugs": 12,
-      "critical": 1,
       "high": 1,
       "medium": 1,
       "low": 3,
@@ -1613,13 +1612,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 1
     },
     {
       "company_name": "Lara Liquid Staking",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Lara Protocol.svg",
       "total_bugs": 13,
-      "critical": 0,
       "high": 0,
       "medium": 5,
       "low": 4,
@@ -1630,13 +1629,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "LogX Token",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/LogX Token.svg",
       "total_bugs": 19,
-      "critical": 3,
       "high": 2,
       "medium": 2,
       "low": 4,
@@ -1647,13 +1646,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 3
     },
     {
       "company_name": "Lync",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Lync Network.svg",
       "total_bugs": 26,
-      "critical": 1,
       "high": 0,
       "medium": 4,
       "low": 8,
@@ -1664,13 +1663,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 1
     },
     {
       "company_name": "Moby",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Moby.svg",
       "total_bugs": 1,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 0,
@@ -1681,13 +1680,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Noft Game",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Noft Games.svg",
       "total_bugs": 11,
-      "critical": 1,
       "high": 3,
       "medium": 4,
       "low": 3,
@@ -1698,13 +1697,13 @@
       "platforms": [
         "Web App"
       ],
-      "language": "Web"
+      "language": "Web",
+      "crictal": 1
     },
     {
       "company_name": "Numa",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Numa Money.svg",
       "total_bugs": 5,
-      "critical": 0,
       "high": 0,
       "medium": 1,
       "low": 1,
@@ -1715,13 +1714,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Obius",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Obius.svg",
       "total_bugs": 10,
-      "critical": 0,
       "high": 1,
       "medium": 1,
       "low": 3,
@@ -1732,13 +1731,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "PePay",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/PePay.svg",
       "total_bugs": 7,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 2,
@@ -1749,13 +1748,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Plutope",
       "logo": "",
       "total_bugs": 12,
-      "critical": 2,
       "high": 0,
       "medium": 5,
       "low": 1,
@@ -1766,13 +1765,13 @@
       "platforms": [
         "BSC"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 2
     },
     {
       "company_name": "Protop Token",
       "logo": "",
       "total_bugs": 2,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 2,
@@ -1783,13 +1782,13 @@
       "platforms": [
         "Polygon"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Protop Vesting",
       "logo": "",
       "total_bugs": 8,
-      "critical": 1,
       "high": 0,
       "medium": 0,
       "low": 3,
@@ -1800,13 +1799,13 @@
       "platforms": [
         "Polygon"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 1
     },
     {
       "company_name": "DappRadar Quest",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/DappRadar.svg",
       "total_bugs": 9,
-      "critical": 0,
       "high": 0,
       "medium": 2,
       "low": 1,
@@ -1817,13 +1816,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "RDGX",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/RDGX Token.svg",
       "total_bugs": 3,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 1,
@@ -1834,13 +1833,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "ResearchHub",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/ResearchHub.svg",
       "total_bugs": 13,
-      "critical": 0,
       "high": 0,
       "medium": 4,
       "low": 1,
@@ -1852,13 +1851,13 @@
         "ETH",
         "Base"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Rex Exchange",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Rex exchange.svg",
       "total_bugs": 25,
-      "critical": 1,
       "high": 5,
       "medium": 4,
       "low": 5,
@@ -1869,13 +1868,13 @@
       "platforms": [
         "Polygon"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 1
     },
     {
       "company_name": "Nordek Rove Token",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Rove Nordek.svg",
       "total_bugs": 8,
-      "critical": 0,
       "high": 1,
       "medium": 1,
       "low": 1,
@@ -1886,13 +1885,13 @@
       "platforms": [
         "BSC"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "SAN",
       "logo": "",
       "total_bugs": 22,
-      "critical": 0,
       "high": 1,
       "medium": 4,
       "low": 6,
@@ -1903,13 +1902,13 @@
       "platforms": [
         "BSC"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "SPE Smart Contract",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/SPF.svg",
       "total_bugs": 29,
-      "critical": 2,
       "high": 1,
       "medium": 2,
       "low": 4,
@@ -1920,13 +1919,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 2
     },
     {
       "company_name": "SWYP",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/SWYP Foundation.svg",
       "total_bugs": 7,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 3,
@@ -1937,13 +1936,13 @@
       "platforms": [
         "BSC"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Solace",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Solace Protocol.svg",
       "total_bugs": 9,
-      "critical": 0,
       "high": 0,
       "medium": 1,
       "low": 2,
@@ -1954,13 +1953,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "StationX Claim",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/StationX.svg",
       "total_bugs": 11,
-      "critical": 0,
       "high": 1,
       "medium": 1,
       "low": 4,
@@ -1971,13 +1970,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Styleo Coin",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Styleo Coin Eddy finance.svg",
       "total_bugs": 3,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 2,
@@ -1988,13 +1987,13 @@
       "platforms": [
         "BSC"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "TRICE",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Trice.svg",
       "total_bugs": 9,
-      "critical": 0,
       "high": 0,
       "medium": 1,
       "low": 3,
@@ -2005,13 +2004,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Tribal Token",
       "logo": "",
       "total_bugs": 4,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 4,
@@ -2023,13 +2022,13 @@
         "ETH",
         "Base"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Tribally Games",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Tribally Games.svg",
       "total_bugs": 6,
-      "critical": 0,
       "high": 1,
       "medium": 0,
       "low": 4,
@@ -2041,13 +2040,13 @@
         "ETH",
         "Base"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "UniCoinX",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Unicoinx.svg",
       "total_bugs": 2,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 2,
@@ -2058,13 +2057,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Uniscrow",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Uniscrow.svg",
       "total_bugs": 6,
-      "critical": 0,
       "high": 0,
       "medium": 1,
       "low": 2,
@@ -2075,13 +2074,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Vouch Contract",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Vouch.svg",
       "total_bugs": 12,
-      "critical": 0,
       "high": 1,
       "medium": 1,
       "low": 5,
@@ -2092,13 +2091,13 @@
       "platforms": [
         "Pulse"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Wahed Token",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Wahed Project.svg",
       "total_bugs": 9,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 4,
@@ -2109,13 +2108,13 @@
       "platforms": [
         "BSC"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Wasset",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Wasset.svg",
       "total_bugs": 17,
-      "critical": 2,
       "high": 0,
       "medium": 3,
       "low": 5,
@@ -2126,13 +2125,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 2
     },
     {
       "company_name": "Pstake - Web",
       "logo": "",
       "total_bugs": 0,
-      "critical": 0,
       "high": 0,
       "medium": 0,
       "low": 0,
@@ -2143,13 +2142,13 @@
       "platforms": [
         "Web2"
       ],
-      "language": "Web"
+      "language": "Web",
+      "crictal": 0
     },
     {
       "company_name": "ZHDCoin",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/ZHD Coin.svg",
       "total_bugs": 4,
-      "critical": 0,
       "high": 0,
       "medium": 1,
       "low": 2,
@@ -2160,13 +2159,13 @@
       "platforms": [
         "BSC"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "Zenland",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Zenland.svg",
       "total_bugs": 15,
-      "critical": 0,
       "high": 2,
       "medium": 1,
       "low": 4,
@@ -2178,13 +2177,13 @@
         "ETH",
         "BSC"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 0
     },
     {
       "company_name": "ZetaSwap",
       "logo": "",
       "total_bugs": 3,
-      "critical": 1,
       "high": 0,
       "medium": 1,
       "low": 1,
@@ -2195,13 +2194,13 @@
       "platforms": [
         "Zeta Chain"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 1
     },
     {
       "company_name": "aUSD",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/aUSD Stablejack.svg",
       "total_bugs": 33,
-      "critical": 3,
       "high": 2,
       "medium": 11,
       "low": 6,
@@ -2212,13 +2211,13 @@
       "platforms": [
         "Avlance"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 3
     },
     {
       "company_name": "pStake Bridge",
       "logo": "",
       "total_bugs": 6,
-      "critical": 0,
       "high": 0,
       "medium": 1,
       "low": 2,
@@ -2229,13 +2228,13 @@
       "platforms": [
         "Cosmos"
       ],
-      "language": "Go"
+      "language": "Go",
+      "crictal": 0
     },
     {
       "company_name": "Mercuri Finance - Mercuri Protocol Contracts",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/MercuriFinance-MercuriProtocolContracts.jpg",
       "total_bugs": 0,
-      "critical": 3,
       "high": 0,
       "medium": 1,
       "low": 5,
@@ -2246,13 +2245,13 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 3
     },
     {
       "company_name": "Mercuri Finance - Mercuri Protocol Contracts",
       "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/MercuriFinance-MercuriProtocolContracts.jpg",
       "total_bugs": 0,
-      "critical": 3,
       "high": 0,
       "medium": 1,
       "low": 5,
@@ -2263,7 +2262,8 @@
       "platforms": [
         "ETH"
       ],
-      "language": "Solidity"
+      "language": "Solidity",
+      "crictal": 3
     }
   ]
 }
