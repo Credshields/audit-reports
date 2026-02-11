@@ -2247,23 +2247,6 @@
         "ETH"
       ],
       "language": "Solidity"
-    },
-    {
-      "company_name": "Mercuri Finance - Mercuri Protocol Contracts",
-      "logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/MercuriFinance-MercuriProtocolContracts.jpg",
-      "total_bugs": 14,
-      "crictal": 3.0,
-      "high": 0.0,
-      "medium": 1.0,
-      "low": 5.0,
-      "informational": 4.0,
-      "gas": 1.0,
-      "report_link": "https://github.com/Credshields/audit-reports/blob/master/MercuriFinance-MercuriProtocolContracts_Audit_Report.pdf",
-      "date": "Feb 11th 2026",
-      "platforms": [
-        "ETH"
-      ],
-      "language": "Solidity"
     }
   ]
 }
