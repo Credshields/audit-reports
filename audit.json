@@ -1967,7 +1967,7 @@
 		},
 		{
 			"company_name": "Mercuri Finance - Mercuri Protocol Contracts",
-			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/MercuriFinance-MercuriProtocolContracts.jpg",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/mercuri.svg",
 			"total_bugs": 14,
 			"crictal": 3.0,
 			"high": 0.0,
