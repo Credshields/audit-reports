@@ -1979,6 +1979,21 @@
 			"date": "Feb 11th 2026",
 			"platforms": ["ETH"],
 			"language": "Solidity"
+		},
+		{
+			"company_name": "Ploutos - Lending Deploy Contracts",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/ploutos.png",
+			"total_bugs": 7,
+			"crictal": 0.0,
+			"high": 0.0,
+			"medium": 0.0,
+			"low": 5.0,
+			"informational": 2.0,
+			"gas": 0.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Ploutos_Final_Audit_Report.pdf",
+			"date": "Feb 12th 2026",
+			"platforms": ["ETH"],
+			"language": "Solidity"
 		}
 	]
 }
