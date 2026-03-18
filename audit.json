@@ -2009,6 +2009,21 @@
 			"date": "Dec 18th 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity"
+		},
+		{
+			"company_name": "Fission Labs - Redemption Manager",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/fission.svg",
+			"total_bugs": 8,
+			"crictal": 0.0,
+			"high": 0.0,
+			"medium": 0.0,
+			"low": 2.0,
+			"informational": 4.0,
+			"gas": 2.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Fission_RM_Final_Audit_Report.pdf",
+			"date": "March 16th 2026",
+			"platforms": ["ETH"],
+			"language": "Solidity"
 		}
 	]
 }
