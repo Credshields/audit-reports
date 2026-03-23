@@ -2024,6 +2024,21 @@
 			"date": "March 16th 2026",
 			"platforms": ["ETH"],
 			"language": "Solidity"
+		},
+		{
+			"company_name": "Whale Venture - WStaking Contract",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/wstaking.png",
+			"total_bugs": 16,
+			"crictal": 1.0,
+			"high": 2.0,
+			"medium": 3.0,
+			"low": 6.0,
+			"informational": 1.0,
+			"gas": 3.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Whale_Venture_-_WStaking_Final_Audit_Report.pdf",
+			"date": "March 20th 2026",
+			"platforms": ["BSC", "Base", "X"],
+			"language": "Solidity"
 		}
 	]
 }
