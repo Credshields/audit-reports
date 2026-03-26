@@ -2069,6 +2069,21 @@
 			"date": "March 18th 2026",
 			"platforms": ["Go"],
 			"language": "Go"
+		},
+		{
+			"company_name": "PropDefi - Token and ICO Contracts",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/PropDefi.webp",
+			"total_bugs": 9,
+			"crictal": 1.0,
+			"high": 1.0,
+			"medium": 2.0,
+			"low": 1.0,
+			"informational": 3.0,
+			"gas": 1.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/PropDefi_Final_Audit_Report.pdf",
+			"date": "March 26th 2026",
+			"platforms": ["BSC"],
+			"language": "Solidity"
 		}
 	]
 }
