@@ -2084,6 +2084,21 @@
 			"date": "March 26th 2026",
 			"platforms": ["BSC"],
 			"language": "Solidity"
+		},
+		{
+			"company_name": "Vouch - Capital Pool and Fuzzing",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Vouch.svg",
+			"total_bugs": 12,
+			"crictal": 0.0,
+			"high": 1.0,
+			"medium": 3.0,
+			"low": 1.0,
+			"informational": 5.0,
+			"gas": 2.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Vouch_Capitalpool_and_fuzzing.pdf",
+			"date": "March 24th 2026",
+			"platforms": ["ETH"],
+			"language": "Solidity"
 		}
 	]
 }
