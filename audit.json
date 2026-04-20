@@ -2114,6 +2114,21 @@
 			"date": "April 17th 2026",
 			"platforms": ["ETH"],
 			"language": "Solidity"
+		},
+		{
+			"company_name": "Hearth - T-Rex Contracts",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/asd.png",
+			"total_bugs": 12,
+			"crictal": 0.0,
+			"high": 0.0,
+			"medium": 0.0,
+			"low": 6.0,
+			"informational": 6.0,
+			"gas": 0.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Audit_Report_Hearth.pdf",
+			"date": "April 20th 2026",
+			"platforms": ["BSC"],
+			"language": "Solidity"
 		}
 	]
 }
