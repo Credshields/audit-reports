@@ -2174,6 +2174,21 @@
 			"date": "May 7th 2026",
 			"platforms": ["ETH"],
 			"language": "Solidity"
+		},
+		{
+			"company_name": "Octos Betting Contracts",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/octos.jpeg",
+			"total_bugs": 6,
+			"critical": 0.0,
+			"high": 1.0,
+			"medium": 1.0,
+			"low": 2.0,
+			"informational": 2.0,
+			"gas": 0.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Audit_Report_Octos_Betting.pdf",
+			"date": "May 7th 2026",
+			"platforms": ["ETH"],
+			"language": "Solidity"
 		}
 	]
 }
