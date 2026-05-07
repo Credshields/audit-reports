@@ -13,7 +13,7 @@
 			"date": "Jan 29th 2026",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Ardentis",
@@ -28,7 +28,7 @@
 			"date": "Feb 6th 2026",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Blockwill Contracts",
@@ -43,7 +43,7 @@
 			"date": "Jan 30th 2026",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "HeyElsa - Airdrop Contracts",
@@ -58,7 +58,7 @@
 			"date": "Jan 14th 2026",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "HeyElsa - Staking Contracts",
@@ -73,7 +73,7 @@
 			"date": "Jan 8th 2026",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "HeyElsa - OFT Contract",
@@ -88,7 +88,7 @@
 			"date": "Jan 7th 2026",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "HeyElsa - Token Contract",
@@ -103,7 +103,7 @@
 			"date": "Dec 31st 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "QPEPE Token",
@@ -118,7 +118,7 @@
 			"date": "Dec 3rd 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Octos Contracts",
@@ -133,7 +133,7 @@
 			"date": "Dec 5th 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Fanbase Token",
@@ -148,7 +148,7 @@
 			"date": "Dec 4th 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Dhazon - Score11 Contract",
@@ -163,7 +163,7 @@
 			"date": "Dec 3rd 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Avail - Vault Contracts",
@@ -178,7 +178,7 @@
 			"date": "Nov 24th 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 1.0
+			"critical": 1.0
 		},
 		{
 			"company_name": "Avail - XARMigration",
@@ -193,7 +193,7 @@
 			"date": "Aug 28th 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 1.0
+			"critical": 1.0
 		},
 		{
 			"company_name": "Guardian Labs - Presale Contracts",
@@ -208,7 +208,7 @@
 			"date": "Nov 26th 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "VaultCoin Foundation - VaultCoin Token",
@@ -223,7 +223,7 @@
 			"date": "Nov 21st 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "HeyElsa - Token Contract",
@@ -238,7 +238,7 @@
 			"date": "Nov 20th 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "HeyElsa - DApp Widget",
@@ -253,7 +253,7 @@
 			"date": "Nov 17th 2025",
 			"platforms": ["Web"],
 			"language": "Web",
-			"crictal": 1.0
+			"critical": 1.0
 		},
 		{
 			"company_name": "QuickSwap - Token Contract",
@@ -268,7 +268,7 @@
 			"date": "Nov 17th 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "CryptoRia - CRY Token",
@@ -283,7 +283,7 @@
 			"date": "Nov 12th 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Okidori - Booster Pack",
@@ -298,7 +298,7 @@
 			"date": "Nov 7th 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "LERN360 - ICO Contracts",
@@ -313,7 +313,7 @@
 			"date": "Nov 7th 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 6.0
+			"critical": 6.0
 		},
 		{
 			"company_name": "CapX - Launchpad",
@@ -328,7 +328,7 @@
 			"date": "Nov 3rd 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "CapX - OnRamp Bridge",
@@ -343,7 +343,7 @@
 			"date": "Nov 3rd 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Polytrade - TradeStaking",
@@ -358,7 +358,7 @@
 			"date": "Nov 6th 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Vouch Staking",
@@ -373,7 +373,7 @@
 			"date": "Nov 7th 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 1.0
+			"critical": 1.0
 		},
 		{
 			"company_name": "EcoYield Token",
@@ -388,7 +388,7 @@
 			"date": "Oct 31st 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "HeyElsa - WebApp",
@@ -403,7 +403,7 @@
 			"date": "Sep 1st 2025",
 			"platforms": ["Web"],
 			"language": "Web",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Landslide - ICM Contracts",
@@ -418,7 +418,7 @@
 			"date": "Feb 4th 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 4.0
+			"critical": 4.0
 		},
 		{
 			"company_name": "Mandala - Presale Contracts",
@@ -433,7 +433,7 @@
 			"date": "Oct 6th 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Bitsafe - Fun Token Giveaway Contracts 2",
@@ -448,7 +448,7 @@
 			"date": "Sept 22nd 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Klink Finance - Token Contract",
@@ -463,7 +463,7 @@
 			"date": "October 2nd 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Tarmiiz - Vault Contracts",
@@ -478,7 +478,7 @@
 			"date": "August 12th 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 2.0
+			"critical": 2.0
 		},
 		{
 			"company_name": "Safle - Unified ID Contracts",
@@ -493,7 +493,7 @@
 			"date": "August 21st 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 2.0
+			"critical": 2.0
 		},
 		{
 			"company_name": "Bitsafe - Fun Token Giveaway Contracts",
@@ -508,7 +508,7 @@
 			"date": "August 21st 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 11.0
+			"critical": 11.0
 		},
 		{
 			"company_name": "Zodor Staking",
@@ -523,7 +523,7 @@
 			"date": "August 14th 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 2.0
+			"critical": 2.0
 		},
 		{
 			"company_name": "Vouch Token and Distribution",
@@ -538,7 +538,7 @@
 			"date": "August 14th 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 2.0
+			"critical": 2.0
 		},
 		{
 			"company_name": "Taco Studios - Okidori",
@@ -553,7 +553,7 @@
 			"date": "August 6th 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 2.0
+			"critical": 2.0
 		},
 		{
 			"company_name": "TOR Token",
@@ -568,7 +568,7 @@
 			"date": "July 31st 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Mushi V2.0",
@@ -583,7 +583,7 @@
 			"date": "June 2nd 2025",
 			"platforms": ["SOLANA"],
 			"language": "Rust",
-			"crictal": 1.0
+			"critical": 1.0
 		},
 		{
 			"company_name": "Mana.Win",
@@ -598,7 +598,7 @@
 			"date": "June 19th 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 2.0
+			"critical": 2.0
 		},
 		{
 			"company_name": "Artulabs Limited - Solana Contracts",
@@ -613,7 +613,7 @@
 			"date": "February 21st 2025",
 			"platforms": ["SOLANA"],
 			"language": "Rust",
-			"crictal": 1.0
+			"critical": 1.0
 		},
 		{
 			"company_name": "Artulabs Limited  - Solidity Contracts",
@@ -628,7 +628,7 @@
 			"date": "February 21st 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Power Couple Coin - Lottery Contracts",
@@ -643,7 +643,7 @@
 			"date": "May 7th 2025",
 			"platforms": ["SOLANA"],
 			"language": "Rust",
-			"crictal": 6.0
+			"critical": 6.0
 		},
 		{
 			"company_name": "Star (FSTR) Token",
@@ -658,7 +658,7 @@
 			"date": "May 10th 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Tunnl Exchange - TUN Token",
@@ -673,7 +673,7 @@
 			"date": "April 25th 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "LERN360",
@@ -688,7 +688,7 @@
 			"date": "April 17th 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Fomodotbiz",
@@ -703,7 +703,7 @@
 			"date": "April 1st 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 3.0
+			"critical": 3.0
 		},
 		{
 			"company_name": "Lync - Mew.gg Contracts",
@@ -718,7 +718,7 @@
 			"date": "March 27th 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "RealProton",
@@ -733,7 +733,7 @@
 			"date": "March 24th 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Liqfinity",
@@ -748,7 +748,7 @@
 			"date": "March 21st 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Hemi Labs",
@@ -763,7 +763,7 @@
 			"date": "March 12th 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "ePound",
@@ -778,7 +778,7 @@
 			"date": "March 20th 2025",
 			"platforms": ["BSC"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "W3.labs",
@@ -793,7 +793,7 @@
 			"date": "Feb 7th 2025",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "BRLA",
@@ -808,7 +808,7 @@
 			"date": "Jan 29th 2025",
 			"platforms": ["Polygon"],
 			"language": "Solidity",
-			"crictal": 2.0
+			"critical": 2.0
 		},
 		{
 			"company_name": "AllInGames - Andar Bahar",
@@ -823,7 +823,7 @@
 			"date": "Dec 31st 2024",
 			"platforms": ["COSMOS"],
 			"language": "Rust",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "AllInGames - Baccarat",
@@ -838,7 +838,7 @@
 			"date": "Dec 31st 2024",
 			"platforms": ["COSMOS"],
 			"language": "Rust",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "AllInGames - Bank",
@@ -853,7 +853,7 @@
 			"date": "Dec 31st 2024",
 			"platforms": ["COSMOS"],
 			"language": "Rust",
-			"crictal": 4.0
+			"critical": 4.0
 		},
 		{
 			"company_name": "AllInGames - Classic Dice",
@@ -868,7 +868,7 @@
 			"date": "Dec 31st 2024",
 			"platforms": ["COSMOS"],
 			"language": "Rust",
-			"crictal": 1.0
+			"critical": 1.0
 		},
 		{
 			"company_name": "AllInGames - Coin Flip",
@@ -883,7 +883,7 @@
 			"date": "Dec 31st 2024",
 			"platforms": ["COSMOS"],
 			"language": "Rust",
-			"crictal": 1.0
+			"critical": 1.0
 		},
 		{
 			"company_name": "AllInGames - Dragon Tiger",
@@ -898,7 +898,7 @@
 			"date": "Dec 31st 2024",
 			"platforms": ["COSMOS"],
 			"language": "Rust",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "AllInGames - Hash Dice",
@@ -913,7 +913,7 @@
 			"date": "Dec 31st 2024",
 			"platforms": ["COSMOS"],
 			"language": "Rust",
-			"crictal": 1.0
+			"critical": 1.0
 		},
 		{
 			"company_name": "AllInGames - Limbo",
@@ -928,7 +928,7 @@
 			"date": "Dec 31st 2024",
 			"platforms": ["COSMOS"],
 			"language": "Rust",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "AllInGames - Lottery",
@@ -943,7 +943,7 @@
 			"date": "Dec 31st 2024",
 			"platforms": ["COSMOS"],
 			"language": "Rust",
-			"crictal": 2.0
+			"critical": 2.0
 		},
 		{
 			"company_name": "AllInGames - Roulette",
@@ -958,7 +958,7 @@
 			"date": "Dec 31st 2024",
 			"platforms": ["COSMOS"],
 			"language": "Rust",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "AllInGames - Seven Up Seven Down",
@@ -973,7 +973,7 @@
 			"date": "Dec 31st 2024",
 			"platforms": ["COSMOS"],
 			"language": "Rust",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "AllInGames - Slots",
@@ -988,7 +988,7 @@
 			"date": "Dec 31st 2024",
 			"platforms": ["COSMOS"],
 			"language": "Rust",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "9mm",
@@ -1003,7 +1003,7 @@
 			"date": "Oct 15th 2023",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Arcana Paymaster",
@@ -1018,7 +1018,7 @@
 			"date": "Mar 1st 2024",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Arcana Sendit",
@@ -1033,7 +1033,7 @@
 			"date": "Oct 13th 2023",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Arcana - Staking",
@@ -1048,7 +1048,7 @@
 			"date": "April 15th 2023",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Archethic Bridge",
@@ -1063,7 +1063,7 @@
 			"date": "Oct 12th 2023",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "AssetMantle-WEB",
@@ -1078,7 +1078,7 @@
 			"date": "Oct 18th 2022",
 			"platforms": ["Web2"],
 			"language": "Web",
-			"crictal": 1.0
+			"critical": 1.0
 		},
 		{
 			"company_name": "Asset Chain",
@@ -1093,7 +1093,7 @@
 			"date": "June 12th 2024",
 			"platforms": ["BSC"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "BuscemiBeats-NFT",
@@ -1108,7 +1108,7 @@
 			"date": "Oct 30th 2022",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Caliburland",
@@ -1123,7 +1123,7 @@
 			"date": "April 4th 2022",
 			"platforms": ["BSC"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Capital Rock",
@@ -1138,7 +1138,7 @@
 			"date": "Sept 11th 2023",
 			"platforms": ["BSC"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Capx",
@@ -1153,7 +1153,7 @@
 			"date": "Oct 25th 2022",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "CoinGabbar",
@@ -1168,7 +1168,7 @@
 			"date": "Jan 12th 2023",
 			"platforms": ["BSC"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Comdex",
@@ -1183,7 +1183,7 @@
 			"date": "Aug 15th 2022",
 			"platforms": ["COSMOS"],
 			"language": "Go",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Compad Coin",
@@ -1198,7 +1198,7 @@
 			"date": "May 9th 2024",
 			"platforms": ["BSC"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "CryptoFootball",
@@ -1213,7 +1213,7 @@
 			"date": "April 14th 2022",
 			"platforms": ["Web App"],
 			"language": "Web",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "DaiKoKu",
@@ -1228,7 +1228,7 @@
 			"date": "Aug 8th 2023",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "DeVo Token",
@@ -1243,7 +1243,7 @@
 			"date": "Nov 10th 2022",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Devo Whitelist",
@@ -1258,7 +1258,7 @@
 			"date": "Nov 10th 2022",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Factiiv Token",
@@ -1273,7 +1273,7 @@
 			"date": "April 6th 2024",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "pStake Smart Contract",
@@ -1288,7 +1288,7 @@
 			"date": "June 20th 2022",
 			"platforms": ["COSMOS"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "FoundersLab",
@@ -1303,7 +1303,7 @@
 			"date": "Nov 10th 2022",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 2.0
+			"critical": 2.0
 		},
 		{
 			"company_name": "HoldPlatform",
@@ -1318,7 +1318,7 @@
 			"date": "Nov 12th 2024",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Ideology",
@@ -1333,7 +1333,7 @@
 			"date": "Nov 15th 2023",
 			"platforms": ["Polygon"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "JayDeriv",
@@ -1348,7 +1348,7 @@
 			"date": "July 19th 2023",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "JayPeggers",
@@ -1363,7 +1363,7 @@
 			"date": "Mar 24th 2023",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Juno AWS",
@@ -1378,7 +1378,7 @@
 			"date": "April 27th 2023",
 			"platforms": ["AWS"],
 			"language": "AWS",
-			"crictal": 1.0
+			"critical": 1.0
 		},
 		{
 			"company_name": "JustFarming",
@@ -1393,7 +1393,7 @@
 			"date": "Sept 21st 2023",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Kaku Smart Contract",
@@ -1408,7 +1408,7 @@
 			"date": "Aug 5th 2024",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Kresus",
@@ -1423,7 +1423,7 @@
 			"date": "July 19th 2024",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 1.0
+			"critical": 1.0
 		},
 		{
 			"company_name": "Lara Liquid Staking",
@@ -1438,7 +1438,7 @@
 			"date": "Oct 16th 2024",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "LogX Token",
@@ -1453,7 +1453,7 @@
 			"date": "April 15th 2024",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 3.0
+			"critical": 3.0
 		},
 		{
 			"company_name": "Lync",
@@ -1468,7 +1468,7 @@
 			"date": "July 25th 2023",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 1.0
+			"critical": 1.0
 		},
 		{
 			"company_name": "Moby",
@@ -1483,7 +1483,7 @@
 			"date": "June 28th 2024",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Noft Game",
@@ -1498,7 +1498,7 @@
 			"date": "Aug 5th 2022",
 			"platforms": ["Web App"],
 			"language": "Web",
-			"crictal": 1.0
+			"critical": 1.0
 		},
 		{
 			"company_name": "Numa",
@@ -1513,7 +1513,7 @@
 			"date": "Jan 30th 2024",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Obius",
@@ -1528,7 +1528,7 @@
 			"date": "Feb 7th 2023",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "PePay",
@@ -1543,7 +1543,7 @@
 			"date": "June 21st 2023",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Plutope",
@@ -1558,7 +1558,7 @@
 			"date": "Aug 13th 2024",
 			"platforms": ["BSC"],
 			"language": "Solidity",
-			"crictal": 2.0
+			"critical": 2.0
 		},
 		{
 			"company_name": "Protop Token",
@@ -1573,7 +1573,7 @@
 			"date": "Aug 27th 2024",
 			"platforms": ["Polygon"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Protop Vesting",
@@ -1588,7 +1588,7 @@
 			"date": "Sept 6th 2024",
 			"platforms": ["Polygon"],
 			"language": "Solidity",
-			"crictal": 1.0
+			"critical": 1.0
 		},
 		{
 			"company_name": "DappRadar Quest",
@@ -1603,7 +1603,7 @@
 			"date": "Nov 23rd 2023",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "RDGX",
@@ -1618,7 +1618,7 @@
 			"date": "Dec 4th 2023",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "ResearchHub",
@@ -1633,7 +1633,7 @@
 			"date": "April 4th 2024",
 			"platforms": ["ETH", "Base"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Rex Exchange",
@@ -1648,7 +1648,7 @@
 			"date": "June 4th 2024",
 			"platforms": ["Polygon"],
 			"language": "Solidity",
-			"crictal": 1.0
+			"critical": 1.0
 		},
 		{
 			"company_name": "Nordek Rove Token",
@@ -1663,7 +1663,7 @@
 			"date": "Sept 18th 2023",
 			"platforms": ["BSC"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "SAN",
@@ -1678,7 +1678,7 @@
 			"date": "Aug 20th 2024",
 			"platforms": ["BSC"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "SPE Smart Contract",
@@ -1693,7 +1693,7 @@
 			"date": "Oct 30th 2024",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 2.0
+			"critical": 2.0
 		},
 		{
 			"company_name": "SWYP",
@@ -1708,7 +1708,7 @@
 			"date": "Sept 21st 2023",
 			"platforms": ["BSC"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Solace",
@@ -1723,7 +1723,7 @@
 			"date": "Aug 30th 2023",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "StationX Claim",
@@ -1738,7 +1738,7 @@
 			"date": "Oct 9th 2023",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Styleo Coin",
@@ -1753,7 +1753,7 @@
 			"date": "July 22nd 2024",
 			"platforms": ["BSC"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "TRICE",
@@ -1768,7 +1768,7 @@
 			"date": "Aug 6th 2023",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Tribal Token",
@@ -1783,7 +1783,7 @@
 			"date": "April 15th 2024",
 			"platforms": ["ETH", "Base"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Tribally Games",
@@ -1798,7 +1798,7 @@
 			"date": "April 15th 2024",
 			"platforms": ["ETH", "Base"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "UniCoinX",
@@ -1813,7 +1813,7 @@
 			"date": "Nov 6th 2024",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Uniscrow",
@@ -1828,7 +1828,7 @@
 			"date": "April 27th 2023",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Vouch Contract",
@@ -1843,7 +1843,7 @@
 			"date": "April 15th 2024",
 			"platforms": ["Pulse"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Wahed Token",
@@ -1858,7 +1858,7 @@
 			"date": "Sept 24th 2022",
 			"platforms": ["BSC"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Wasset",
@@ -1873,7 +1873,7 @@
 			"date": "Feb 19th 2024",
 			"platforms": ["ETH"],
 			"language": "Solidity",
-			"crictal": 2.0
+			"critical": 2.0
 		},
 		{
 			"company_name": "Pstake - Web",
@@ -1888,7 +1888,7 @@
 			"date": "Aug 29th, 2021",
 			"platforms": ["Web2"],
 			"language": "Web",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "ZHDCoin",
@@ -1903,7 +1903,7 @@
 			"date": "Sept 22nd 2023",
 			"platforms": ["BSC"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Zenland",
@@ -1918,7 +1918,7 @@
 			"date": "Feb 7th 2023",
 			"platforms": ["ETH", "BSC"],
 			"language": "Solidity",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "ZetaSwap",
@@ -1933,7 +1933,7 @@
 			"date": "Sept 14th 2023",
 			"platforms": ["Zeta Chain"],
 			"language": "Solidity",
-			"crictal": 1.0
+			"critical": 1.0
 		},
 		{
 			"company_name": "aUSD",
@@ -1948,7 +1948,7 @@
 			"date": "Jun 5th 2024",
 			"platforms": ["Avlance"],
 			"language": "Solidity",
-			"crictal": 3.0
+			"critical": 3.0
 		},
 		{
 			"company_name": "pStake Bridge",
@@ -1963,13 +1963,13 @@
 			"date": "June 20th 2022",
 			"platforms": ["Cosmos"],
 			"language": "Go",
-			"crictal": 0.0
+			"critical": 0.0
 		},
 		{
 			"company_name": "Mercuri Finance - Mercuri Protocol Contracts",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/mercuri.svg",
 			"total_bugs": 14,
-			"crictal": 3.0,
+			"critical": 3.0,
 			"high": 0.0,
 			"medium": 1.0,
 			"low": 5.0,
@@ -1984,7 +1984,7 @@
 			"company_name": "iVault Token",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/ivault.png",
 			"total_bugs": 4,
-			"crictal": 0.0,
+			"critical": 0.0,
 			"high": 0.0,
 			"medium": 0.0,
 			"low": 2.0,
@@ -1999,7 +1999,7 @@
 			"company_name": "MetaWin Token Contract",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/xyz123.png",
 			"total_bugs": 2,
-			"crictal": 0.0,
+			"critical": 0.0,
 			"high": 0.0,
 			"medium": 0.0,
 			"low": 1.0,
@@ -2014,7 +2014,7 @@
 			"company_name": "Fission Labs - Redemption Manager",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/fission.svg",
 			"total_bugs": 8,
-			"crictal": 0.0,
+			"critical": 0.0,
 			"high": 0.0,
 			"medium": 0.0,
 			"low": 2.0,
@@ -2029,7 +2029,7 @@
 			"company_name": "Whale Venture - WStaking Contract",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/wstaking.png",
 			"total_bugs": 16,
-			"crictal": 1.0,
+			"critical": 1.0,
 			"high": 2.0,
 			"medium": 3.0,
 			"low": 6.0,
@@ -2044,7 +2044,7 @@
 			"company_name": "Ryze Protocol - Solidity Contracts",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/ryze.png",
 			"total_bugs": 72,
-			"crictal": 0.0,
+			"critical": 0.0,
 			"high": 6.0,
 			"medium": 26.0,
 			"low": 31.0,
@@ -2059,7 +2059,7 @@
 			"company_name": "Ryze Protocol - Go Codebase",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/ryze.png",
 			"total_bugs": 34,
-			"crictal": 2.0,
+			"critical": 2.0,
 			"high": 5.0,
 			"medium": 7.0,
 			"low": 14.0,
@@ -2074,7 +2074,7 @@
 			"company_name": "PropDefi - Token and ICO Contracts",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/PropDefi.webp",
 			"total_bugs": 9,
-			"crictal": 1.0,
+			"critical": 1.0,
 			"high": 1.0,
 			"medium": 2.0,
 			"low": 1.0,
@@ -2089,7 +2089,7 @@
 			"company_name": "Vouch - Capital Pool and Fuzzing",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/Vouch.svg",
 			"total_bugs": 12,
-			"crictal": 0.0,
+			"critical": 0.0,
 			"high": 1.0,
 			"medium": 3.0,
 			"low": 1.0,
@@ -2104,7 +2104,7 @@
 			"company_name": "HeyElsa - Staking Contracts v2",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/hey_elsa.jpeg",
 			"total_bugs": 11,
-			"crictal": 0.0,
+			"critical": 0.0,
 			"high": 3.0,
 			"medium": 3.0,
 			"low": 5.0,
@@ -2119,7 +2119,7 @@
 			"company_name": "Hearth - T-Rex Contracts",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/hearth.jpeg",
 			"total_bugs": 12,
-			"crictal": 0.0,
+			"critical": 0.0,
 			"high": 0.0,
 			"medium": 0.0,
 			"low": 6.0,
@@ -2134,7 +2134,7 @@
 			"company_name": "UrWife - Smart Contracts",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/urwife.webp",
 			"total_bugs": 5,
-			"crictal": 0.0,
+			"critical": 0.0,
 			"high": 0.0,
 			"medium": 0.0,
 			"low": 3.0,
@@ -2149,7 +2149,7 @@
 			"company_name": "UrWife - Web Application and API",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/urwife.webp",
 			"total_bugs": 13,
-			"crictal": 3.0,
+			"critical": 3.0,
 			"high": 3.0,
 			"medium": 1.0,
 			"low": 6.0,
