@@ -2159,6 +2159,21 @@
 			"date": "March 6th 2026",
 			"platforms": ["BSC"],
 			"language": "Solidity"
+		},
+		{
+			"company_name": "Manhattan Token",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/mpcn.png",
+			"total_bugs": 4,
+			"critical": 0.0,
+			"high": 0.0,
+			"medium": 0.0,
+			"low": 1.0,
+			"informational": 2.0,
+			"gas": 1.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Audit_Report_ManhattanToken.pdf",
+			"date": "May 7th 2026",
+			"platforms": ["ETH"],
+			"language": "Solidity"
 		}
 	]
 }
