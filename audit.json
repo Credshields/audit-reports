@@ -2129,6 +2129,36 @@
 			"date": "April 20th 2026",
 			"platforms": ["BSC"],
 			"language": "Solidity"
+		},
+		{
+			"company_name": "UrWife - Smart Contracts",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/urwife.webp",
+			"total_bugs": 5,
+			"crictal": 0.0,
+			"high": 0.0,
+			"medium": 0.0,
+			"low": 3.0,
+			"informational": 2.0,
+			"gas": 0.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/UrWife_Contracts_Final_Audit_Report.pdf",
+			"date": "Feb 2nd 2026",
+			"platforms": ["ETH"],
+			"language": "Solidity"
+		},
+		{
+			"company_name": "UrWife - Web Application and API",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/urwife.webp",
+			"total_bugs": 13,
+			"crictal": 3.0,
+			"high": 3.0,
+			"medium": 1.0,
+			"low": 6.0,
+			"informational": 0.0,
+			"gas": 0.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/UrWife_Web_Final_Audit_Report.pdf",
+			"date": "April 20th 2026",
+			"platforms": ["BSC"],
+			"language": "Solidity"
 		}
 	]
 }
