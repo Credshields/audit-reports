@@ -2189,6 +2189,21 @@
 			"date": "May 7th 2026",
 			"platforms": ["ETH"],
 			"language": "Solidity"
+		},
+		{
+			"company_name": "Gruntle Token Contract",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/gruntle.svg",
+			"total_bugs": 2,
+			"critical": 0.0,
+			"high": 0.0,
+			"medium": 0.0,
+			"low": 1.0,
+			"informational": 0.0,
+			"gas": 1.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Audit_Report_Gruntle Token.pdf",
+			"date": "May 13th 2026",
+			"platforms": ["ETH"],
+			"language": "Solidity"
 		}
 	]
 }
