@@ -2204,6 +2204,21 @@
 			"date": "May 13th 2026",
 			"platforms": ["ETH"],
 			"language": "Solidity"
+		},
+		{
+			"company_name": "Bitcoin Limited Edition Contract",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/doesnotexist.kek",
+			"total_bugs": 5,
+			"critical": 0.0,
+			"high": 0.0,
+			"medium": 0.0,
+			"low": 2.0,
+			"informational": 3.0,
+			"gas": 0.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Audit_Report_Bitcoin Limited Edition.pdf",
+			"date": "May 14th 2026",
+			"platforms": ["BSC"],
+			"language": "Solidity"
 		}
 	]
 }
