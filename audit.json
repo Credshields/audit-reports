@@ -2207,7 +2207,7 @@
 		},
 		{
 			"company_name": "Bitcoin Limited Edition Contract",
-			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/doesnotexist.kek",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/btcle.jpg",
 			"total_bugs": 5,
 			"critical": 0.0,
 			"high": 0.0,
