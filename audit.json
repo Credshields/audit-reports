@@ -2221,8 +2221,8 @@
 			"language": "Solidity"
 		},
 		{
-			"company_name": "PreDex Token Contract",
-			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/predex.svg",
+			"company_name": "SeerDEX Token Contract",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/seerdex.jpg",
 			"total_bugs": 2,
 			"critical": 0.0,
 			"high": 0.0,
@@ -2230,7 +2230,7 @@
 			"low": 1.0,
 			"informational": 1.0,
 			"gas": 0.0,
-			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Audit_Report_PreDex.pdf",
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Audit_Report_SeerDEX.pdf",
 			"date": "May 8th 2026",
 			"platforms": ["ETH"],
 			"language": "Solidity"
