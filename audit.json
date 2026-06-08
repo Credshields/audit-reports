@@ -2234,6 +2234,21 @@
 			"date": "May 8th 2026",
 			"platforms": ["ETH"],
 			"language": "Solidity"
+		},
+		{
+			"company_name": "Avenia - BRLA Contracts",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/avenia.jpg",
+			"total_bugs": 13,
+			"critical": 0.0,
+			"high": 0.0,
+			"medium": 3.0,
+			"low": 4.0,
+			"informational": 6.0,
+			"gas": 0.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Audit_Report_Avenia.pdf",
+			"date": "June 2nd 2026",
+			"platforms": ["ETH"],
+			"language": "Solidity"
 		}
 	]
 }
