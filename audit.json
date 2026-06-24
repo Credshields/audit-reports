@@ -2249,6 +2249,21 @@
 			"date": "June 2nd 2026",
 			"platforms": ["ETH"],
 			"language": "Solidity"
+		},
+		{
+			"company_name": "Cluster Protocol - CP Token Contract",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/cluster.webp",
+			"total_bugs": 4,
+			"critical": 0.0,
+			"high": 0.0,
+			"medium": 1.0,
+			"low": 2.0,
+			"informational": 1.0,
+			"gas": 0.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Audit_Report_Cluster Protocol.pdf",
+			"date": "June 23rd 2026",
+			"platforms": ["ETH"],
+			"language": "Solidity"
 		}
 	]
 }
