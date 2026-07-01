@@ -2264,6 +2264,21 @@
 			"date": "June 23rd 2026",
 			"platforms": ["ETH"],
 			"language": "Solidity"
+		},
+		{
+			"company_name": "Sivo - Vault Contract",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/sivo.png",
+			"total_bugs": 13,
+			"critical": 0.0,
+			"high": 0.0,
+			"medium": 5.0,
+			"low": 1.0,
+			"informational": 7.0,
+			"gas": 0.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Audit_Report_Sivo.pdf",
+			"date": "June 26th 2026",
+			"platforms": ["ETH"],
+			"language": "Solidity"
 		}
 	]
 }
