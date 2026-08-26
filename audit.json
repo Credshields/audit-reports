@@ -2279,6 +2279,21 @@
 			"date": "June 26th 2026",
 			"platforms": ["ETH"],
 			"language": "Solidity"
+		},
+		{
+			"company_name": "Reset Protocol",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/reset.jpg",
+			"total_bugs": 2,
+			"critical": 0.0,
+			"high": 0.0,
+			"medium": 0.0,
+			"low": 0.0,
+			"informational": 2.0,
+			"gas": 0.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Audit_Report_Reset_Protocol.pdf",
+			"date": "August 25th 2026",
+			"platforms": ["ETH"],
+			"language": "Solidity"
 		}
 	]
 }
