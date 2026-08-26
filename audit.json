@@ -2309,6 +2309,21 @@
 			"date": "July 7th 2026",
 			"platforms": ["Base"],
 			"language": "Solidity"
+		},
+		{
+			"company_name": "Sivo",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/sivo.jpg",
+			"total_bugs": 7,
+			"critical": 0.0,
+			"high": 0.0,
+			"medium": 2.0,
+			"low": 3.0,
+			"informational": 2.0,
+			"gas": 0.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Audit_Report_Sivo_Uniswap_Hook.pdf",
+			"date": "August 25th 2026",
+			"platforms": ["ETH"],
+			"language": "Solidity"
 		}
 	]
 }
