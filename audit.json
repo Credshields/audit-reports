@@ -2311,7 +2311,7 @@
 			"language": "Solidity"
 		},
 		{
-			"company_name": "Sivo",
+			"company_name": "Sivo - Uniswap Hook Contracts",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/sivo.jpg",
 			"total_bugs": 7,
 			"critical": 0.0,
