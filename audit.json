@@ -2339,6 +2339,21 @@
 			"date": "July 1st 2026",
 			"platforms": ["ETH"],
 			"language": "Solidity"
+		},
+		{
+			"company_name": "NettyWorth",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/photo_2026_08_27_10_41_54.jpeg",
+			"total_bugs": 40,
+			"critical": 8.0,
+			"high": 10.0,
+			"medium": 14.0,
+			"low": 8.0,
+			"informational": 0.0,
+			"gas": 0.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Audit_Report_NettyWorth.pdf",
+			"date": "July 14th 2026",
+			"platforms": ["ETH"],
+			"language": "Solidity"
 		}
 	]
 }
