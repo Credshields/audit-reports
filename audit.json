@@ -2354,6 +2354,21 @@
 			"date": "July 14th 2026",
 			"platforms": ["ETH"],
 			"language": "Solidity"
+		},
+		{
+			"company_name": "BitSafe - FunToken Coinflip Contracts",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/photo_2026_08_27_10_41_41.jpeg",
+			"total_bugs": 31,
+			"critical": 1.0,
+			"high": 2.0,
+			"medium": 3.0,
+			"low": 10.0,
+			"informational": 15.0,
+			"gas": 0.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Audit_Report_BitSafe_Funtoken_Coinflip.pdf",
+			"date": "July 14th 2026",
+			"platforms": ["ETH"],
+			"language": "Solidity"
 		}
 	]
 }
