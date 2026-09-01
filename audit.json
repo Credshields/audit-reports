@@ -2371,7 +2371,7 @@
 			"language": "Solidity"
 		},
 		{
-			"company_name": "Axcess Finance - Loan Vaults",
+			"company_name": "Axcess - Loan Vaults",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/photo_2026_09_01_12_00_44.jpeg",
 			"total_bugs": 17,
 			"critical": 0.0,
@@ -2380,7 +2380,7 @@
 			"low": 6.0,
 			"informational": 0.0,
 			"gas": 0.0,
-			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Audit_Report_Axcess_Finance_Loan_Vaults.pdf",
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Audit_Report_Axcess_Loan_Vaults.pdf",
 			"date": "August 18th 2026",
 			"platforms": ["ETH"],
 			"language": "Solidity"
