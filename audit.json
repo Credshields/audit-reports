@@ -2384,6 +2384,21 @@
 			"date": "August 18th 2026",
 			"platforms": ["ETH"],
 			"language": "Solidity"
+		},
+		{
+			"company_name": "Dust",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/photo_2026_09_12_20_53_18.jpeg",
+			"total_bugs": 12,
+			"critical": 0.0,
+			"high": 1.0,
+			"medium": 4.0,
+			"low": 5.0,
+			"informational": 2.0,
+			"gas": 0.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Audit_Report_Dust.pdf",
+			"date": "September 11th 2026",
+			"platforms": ["ETH"],
+			"language": "Solidity"
 		}
 	]
 }
