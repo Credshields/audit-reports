@@ -7,13 +7,13 @@ This repository contains audit reports for various smart contracts that our team
 
 CredShields is a Web 3.0 security organization building best-in-class Web 3.0 security automation tools, along with providing manual auditing services to a diversified portfolio of reputed organizations. Established in 2021, built by renowned security researchers from the industry, and backed by the best, CredShields aims to simplify and optimize the auditing process, making it affordable and available to everyone. 
 
-Some of our public works include critical bugs in Cosmos and Avalanche 
+Some of our public works include critical bugs in Cosmos and Avalanche.
 
 - Race Condition is Cosmos' Tendermint 
-https://blog.credshields.com/race-condition-in-tendermints-starport-7cebe176d935
+https://blog.solidityscan.com/race-condition-in-tendermints-starport-7cebe176d935
 
 - Avalanche DOS bug
-https://blog.credshields.com/the-avalanche-blockchain-bug-to-halt-the-chain-4869a19acf7e
+https://blog.solidityscan.com/the-avalanche-blockchain-bug-to-halt-the-chain-4869a19acf7e
 
 
 # About SolidityScan
