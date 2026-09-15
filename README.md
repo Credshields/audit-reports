@@ -10,10 +10,10 @@ CredShields is a Web 3.0 security organization building best-in-class Web 3.0 se
 Some of our public works include critical bugs in Cosmos and Avalanche 
 
 - Race Condition is Cosmos' Tendermint 
-https://blog.credshields.com/race-condition-in-tendermints-starport-7cebe176d935
+https://blog.solidityscan.com/race-condition-in-tendermint-s-starport-7cebe176d935/
 
 - Avalanche DOS bug
-https://blog.credshields.com/the-avalanche-blockchain-bug-to-halt-the-chain-4869a19acf7e
+https://blog.solidityscan.com/the-avalanche-blockchain-bug-to-halt-the-chain-4869a19acf7e/
 
 
 # About SolidityScan
