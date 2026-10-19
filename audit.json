@@ -2399,6 +2399,21 @@
 			"date": "September 11th 2026",
 			"platforms": ["ETH"],
 			"language": "Solidity"
+		},
+		{
+			"company_name": "EZPZ",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/logo_34.webp",
+			"total_bugs": 38,
+			"critical": 1.0,
+			"high": 5.0,
+			"medium": 13.0,
+			"low": 11.0,
+			"informational": 8.0,
+			"gas": 0.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Audit_Report_EZPZ.pdf",
+			"date": "October 5th 2026",
+			"platforms": ["ETH"],
+			"language": "Solidity"
 		}
 	]
 }
