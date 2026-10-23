@@ -2401,7 +2401,7 @@
 			"language": "Solidity"
 		},
 		{
-			"company_name": "EZPZ",
+			"company_name": "ZPZcoin",
 			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/logo_34.webp",
 			"total_bugs": 38,
 			"critical": 1.0,
