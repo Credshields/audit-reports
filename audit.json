@@ -2414,6 +2414,21 @@
 			"date": "October 5th 2026",
 			"platforms": ["ETH"],
 			"language": "Solidity"
+		},
+		{
+			"company_name": "Soteria Labs",
+			"logo": "https://raw.githubusercontent.com/Credshields/audit-reports/refs/heads/master/AuditLogos/group_427321364.webp",
+			"total_bugs": 64,
+			"critical": 0.0,
+			"high": 6.0,
+			"medium": 17.0,
+			"low": 28.0,
+			"informational": 13.0,
+			"gas": 0.0,
+			"report_link": "https://github.com/Credshields/audit-reports/blob/master/Audit_Report_Soteria_Labs.pdf",
+			"date": "November 3rd 2026",
+			"platforms": ["ETH"],
+			"language": "Solidity"
 		}
 	]
 }
